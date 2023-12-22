@@ -1,0 +1,264 @@
+date,location,name,basket,total,payment_type,card_number
+26/11/2023 09:00,Longridge,Quentin Keller,"Large Smoothies - Glowing Greens - 2.50, Regular Frappes - Strawberries & Cream - 2.75, Regular Glass of milk - 0.70, Regular Glass of milk - 0.70, Regular Smoothies - Glowing Greens - 2.00",8.65,CARD,6690555496662451
+26/11/2023 09:01,Longridge,Joyce Ingle,Large Flavoured iced latte - Caramel - 3.25,3.25,CARD,3154018761321616
+26/11/2023 09:02,Longridge,Mary Lafarge,"Regular Speciality Tea - Earl Grey - 1.30, Large Frappes - Strawberries & Cream - 3.25",4.55,CARD,5415418498365233
+26/11/2023 09:03,Longridge,Buford Ybarra,"Regular Smoothies - Glowing Greens - 2.00, Regular Speciality Tea - Earl Grey - 1.30, Regular Flavoured iced latte - Caramel - 2.75, Large Speciality Tea - Earl Grey - 1.60",7.65,CARD,3161984905366422
+26/11/2023 09:04,Longridge,Shirley Thompson,"Regular Flavoured iced latte - Caramel - 2.75, Large Mocha - 2.70, Regular Frappes - Strawberries & Cream - 2.75",8.2,CARD,1299981178656848
+26/11/2023 09:05,Longridge,James Kaufman,Large Flavoured iced latte - Caramel - 3.25,3.25,CARD,6456613855272623
+26/11/2023 09:06,Longridge,Ernest Mossien,Regular Speciality Tea - Earl Grey - 1.30,1.3,CASH,
+26/11/2023 09:07,Longridge,Lisa Spinks,"Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Caramel - 2.75, Large Speciality Tea - Earl Grey - 1.60, Large Frappes - Strawberries & Cream - 3.25, Large Flavoured iced latte - Caramel - 3.25",14.1,CARD,4090133110431772
+26/11/2023 09:08,Longridge,Jessica Smith,"Regular Smoothies - Glowing Greens - 2.00, Large Speciality Tea - Earl Grey - 1.60, Regular Smoothies - Glowing Greens - 2.00, Regular Smoothies - Glowing Greens - 2.00, Regular Frappes - Strawberries & Cream - 2.75, Regular Frappes - Strawberries & Cream - 2.75",13.1,CARD,6252020380472168
+26/11/2023 09:09,Longridge,Raymond Pearson,"Large Smoothies - Glowing Greens - 2.50, Regular Smoothies - Glowing Greens - 2.00, Regular Smoothies - Glowing Greens - 2.00",6.5,CARD,5135045165047007
+26/11/2023 09:10,Longridge,Edmund Strohmeyer,Regular Speciality Tea - Earl Grey - 1.30,1.3,CARD,6878999346424503
+26/11/2023 09:11,Longridge,Billi Rossignol,"Large Flavoured iced latte - Caramel - 3.25, Large Mocha - 2.70, Large Speciality Tea - Earl Grey - 1.60, Large Smoothies - Glowing Greens - 2.50, Large Frappes - Strawberries & Cream - 3.25, Large Flavoured iced latte - Caramel - 3.25",16.55,CARD,7159276698483346
+26/11/2023 09:13,Longridge,Rashad Findlay,Large Smoothies - Glowing Greens - 2.50,2.5,CASH,
+26/11/2023 09:14,Longridge,Brandon Brewer,"Large Smoothies - Glowing Greens - 2.50, Large Frappes - Strawberries & Cream - 3.25",5.75,CASH,
+26/11/2023 09:15,Longridge,Mike Walden,"Large Mocha - 2.70, Regular Glass of milk - 0.70, Large Smoothies - Glowing Greens - 2.50",5.9,CARD,7981410124228969
+26/11/2023 09:16,Longridge,Ethel Cummings,"Regular Flavoured iced latte - Caramel - 2.75, Large Mocha - 2.70, Regular Speciality Tea - Earl Grey - 1.30",6.75,CARD,7713840273790350
+26/11/2023 09:17,Longridge,Dorothy Riley,"Large Flavoured iced latte - Caramel - 3.25, Large Mocha - 2.70",5.95,CARD,6750088683355869
+26/11/2023 09:18,Longridge,April Keri,Large Flavoured iced latte - Caramel - 3.25,3.25,CARD,1735063521184941
+26/11/2023 09:19,Longridge,Shannon Delong,"Regular Mocha - 2.30, Large Frappes - Strawberries & Cream - 3.25, Regular Flavoured iced latte - Caramel - 2.75, Regular Mocha - 2.30, Regular Smoothies - Glowing Greens - 2.00",12.6,CARD,1962947616028459
+26/11/2023 09:20,Longridge,Dorothy Walser,Regular Mocha - 2.30,2.3,CASH,
+26/11/2023 09:21,Longridge,Patricia Allen,"Large Speciality Tea - Earl Grey - 1.60, Large Smoothies - Glowing Greens - 2.50, Large Smoothies - Glowing Greens - 2.50, Regular Smoothies - Glowing Greens - 2.00, Large Speciality Tea - Earl Grey - 1.60",10.2,CARD,4474650959091904
+26/11/2023 09:22,Longridge,Richard Everett,"Large Speciality Tea - Earl Grey - 1.60, Regular Smoothies - Glowing Greens - 2.00",3.6,CASH,
+26/11/2023 09:23,Longridge,Rena Bowland,"Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Caramel - 2.75, Regular Glass of milk - 0.70",6.7,CARD,5800327643387480
+26/11/2023 09:24,Longridge,Marvel Pickett,"Large Flavoured iced latte - Caramel - 3.25, Large Smoothies - Glowing Greens - 2.50, Large Speciality Tea - Earl Grey - 1.60, Regular Frappes - Strawberries & Cream - 2.75, Large Mocha - 2.70",12.8,CARD,8369448235311117
+26/11/2023 09:26,Longridge,Stephen Dodd,"Large Speciality Tea - Earl Grey - 1.60, Large Flavoured iced latte - Caramel - 3.25, Large Smoothies - Glowing Greens - 2.50, Regular Frappes - Strawberries & Cream - 2.75, Regular Smoothies - Glowing Greens - 2.00",12.1,CARD,4278211845030285
+26/11/2023 09:27,Longridge,Hazel Spencer,"Regular Smoothies - Glowing Greens - 2.00, Large Frappes - Strawberries & Cream - 3.25, Regular Mocha - 2.30, Regular Speciality Tea - Earl Grey - 1.30",8.85,CASH,
+26/11/2023 09:28,Longridge,Eileen Kruse,"Regular Mocha - 2.30, Large Frappes - Strawberries & Cream - 3.25",5.55,CASH,
+26/11/2023 09:29,Longridge,Jessica Rahe,"Regular Glass of milk - 0.70, Large Frappes - Strawberries & Cream - 3.25, Large Smoothies - Glowing Greens - 2.50, Large Smoothies - Glowing Greens - 2.50, Regular Mocha - 2.30",11.25,CARD,8898385817421429
+26/11/2023 09:30,Longridge,Arthur Rowe,"Regular Mocha - 2.30, Large Mocha - 2.70",5,CARD,3687995951082646
+26/11/2023 09:31,Longridge,Irene Zavala,Large Speciality Tea - Earl Grey - 1.60,1.6,CASH,
+26/11/2023 09:32,Longridge,Frederick Myers,"Large Mocha - 2.70, Large Glass of milk - 1.10, Regular Smoothies - Glowing Greens - 2.00, Large Flavoured iced latte - Caramel - 3.25",9.05,CARD,1234444487785782
+26/11/2023 09:33,Longridge,Jerry Parsons,"Regular Flavoured iced latte - Caramel - 2.75, Large Speciality Tea - Earl Grey - 1.60, Large Speciality Tea - Earl Grey - 1.60, Large Frappes - Strawberries & Cream - 3.25",9.2,CARD,2130337608801330
+26/11/2023 09:34,Longridge,Keith Flynn,"Regular Speciality Tea - Earl Grey - 1.30, Large Smoothies - Glowing Greens - 2.50",3.8,CARD,5844040947495916
+26/11/2023 09:35,Longridge,Robert Hernandez,"Large Glass of milk - 1.10, Large Smoothies - Glowing Greens - 2.50, Regular Smoothies - Glowing Greens - 2.00, Regular Speciality Tea - Earl Grey - 1.30",6.9,CARD,3100730729026712
+26/11/2023 09:36,Longridge,Shawn Frizzle,"Large Mocha - 2.70, Regular Frappes - Strawberries & Cream - 2.75, Regular Flavoured iced latte - Caramel - 2.75, Large Flavoured iced latte - Caramel - 3.25, Large Mocha - 2.70",14.15,CASH,
+26/11/2023 09:37,Longridge,Brian Almaguer,"Regular Mocha - 2.30, Large Frappes - Strawberries & Cream - 3.25, Regular Mocha - 2.30, Regular Glass of milk - 0.70",8.55,CASH,
+26/11/2023 09:39,Longridge,Enrique Cathey,"Large Mocha - 2.70, Large Flavoured iced latte - Caramel - 3.25, Regular Mocha - 2.30",8.25,CARD,2036120941772875
+26/11/2023 09:40,Longridge,Charles Kelly,"Large Smoothies - Glowing Greens - 2.50, Regular Glass of milk - 0.70, Large Flavoured iced latte - Caramel - 3.25",6.45,CARD,9205861630981556
+26/11/2023 09:41,Longridge,Catrina Torres,"Large Mocha - 2.70, Large Frappes - Strawberries & Cream - 3.25",5.95,CASH,
+26/11/2023 09:42,Longridge,Valerie Martinez,"Large Mocha - 2.70, Large Glass of milk - 1.10, Regular Frappes - Strawberries & Cream - 2.75, Large Smoothies - Glowing Greens - 2.50",9.05,CARD,1629192287153889
+26/11/2023 09:43,Longridge,Carolyn Kirchner,Regular Flavoured iced latte - Caramel - 2.75,2.75,CARD,9705523529895459
+26/11/2023 09:44,Longridge,Tanya Raab,"Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Caramel - 3.25, Large Smoothies - Glowing Greens - 2.50, Large Frappes - Strawberries & Cream - 3.25, Regular Glass of milk - 0.70, Large Speciality Tea - Earl Grey - 1.60",14.55,CARD,7554580860934292
+26/11/2023 09:45,Longridge,Zachary White,Large Smoothies - Glowing Greens - 2.50,2.5,CASH,
+26/11/2023 09:46,Longridge,Joseph Liu,"Regular Smoothies - Glowing Greens - 2.00, Regular Smoothies - Glowing Greens - 2.00, Regular Flavoured iced latte - Caramel - 2.75, Regular Mocha - 2.30, Large Speciality Tea - Earl Grey - 1.60, Large Speciality Tea - Earl Grey - 1.60",12.25,CASH,
+26/11/2023 09:47,Longridge,Araceli Crespo,"Regular Speciality Tea - Earl Grey - 1.30, Regular Smoothies - Glowing Greens - 2.00, Large Smoothies - Glowing Greens - 2.50, Regular Smoothies - Glowing Greens - 2.00, Large Frappes - Strawberries & Cream - 3.25, Regular Mocha - 2.30",13.35,CARD,7078476946344165
+26/11/2023 09:48,Longridge,John Jefferson,Regular Speciality Tea - Earl Grey - 1.30,1.3,CARD,7358844425683709
+26/11/2023 09:49,Longridge,Ronald Simeon,Large Frappes - Strawberries & Cream - 3.25,3.25,CARD,6420715632010431
+26/11/2023 09:50,Longridge,Cassandra Sarnicola,"Large Frappes - Strawberries & Cream - 3.25, Large Frappes - Strawberries & Cream - 3.25",6.5,CARD,6453842967858449
+26/11/2023 09:52,Longridge,Elizabeth Tabor,"Large Mocha - 2.70, Regular Frappes - Strawberries & Cream - 2.75, Regular Glass of milk - 0.70, Large Frappes - Strawberries & Cream - 3.25, Regular Flavoured iced latte - Caramel - 2.75",12.15,CARD,4918704068026741
+26/11/2023 09:53,Longridge,Donna Orellana,"Large Smoothies - Glowing Greens - 2.50, Large Smoothies - Glowing Greens - 2.50, Large Frappes - Strawberries & Cream - 3.25",8.25,CARD,7195494664405547
+26/11/2023 09:54,Longridge,Daisy Hall,Large Flavoured iced latte - Caramel - 3.25,3.25,CARD,8835605503400049
+26/11/2023 09:55,Longridge,Consuelo Cornish,"Regular Frappes - Strawberries & Cream - 2.75, Regular Flavoured iced latte - Caramel - 2.75, Large Smoothies - Glowing Greens - 2.50, Large Frappes - Strawberries & Cream - 3.25",11.25,CARD,2452392996397238
+26/11/2023 09:56,Longridge,Jon Sabella,"Regular Smoothies - Glowing Greens - 2.00, Regular Glass of milk - 0.70",2.7,CASH,
+26/11/2023 09:57,Longridge,Robert Kidwell,"Large Frappes - Strawberries & Cream - 3.25, Regular Flavoured iced latte - Caramel - 2.75, Regular Speciality Tea - Earl Grey - 1.30",7.3,CARD,6447866419957622
+26/11/2023 09:58,Longridge,David Van,"Large Speciality Tea - Earl Grey - 1.60, Large Frappes - Strawberries & Cream - 3.25, Large Smoothies - Glowing Greens - 2.50, Large Flavoured iced latte - Caramel - 3.25, Large Mocha - 2.70, Regular Flavoured iced latte - Caramel - 2.75",16.05,CASH,
+26/11/2023 09:59,Longridge,Betty Howe,"Regular Frappes - Strawberries & Cream - 2.75, Regular Frappes - Strawberries & Cream - 2.75",5.5,CASH,
+26/11/2023 10:00,Longridge,Max Gillon,"Regular Smoothies - Glowing Greens - 2.00, Regular Mocha - 2.30, Large Glass of milk - 1.10, Regular Mocha - 2.30",7.7,CASH,
+26/11/2023 10:03,Longridge,Angelo Ferguson,"Regular Glass of milk - 0.70, Large Smoothies - Glowing Greens - 2.50",3.2,CARD,4226638346946630
+26/11/2023 10:06,Longridge,Joseph Dean,Large Smoothies - Glowing Greens - 2.50,2.5,CASH,
+26/11/2023 10:10,Longridge,Charles Morales,"Regular Glass of milk - 0.70, Regular Flavoured iced latte - Caramel - 2.75, Regular Glass of milk - 0.70, Regular Speciality Tea - Earl Grey - 1.30, Large Frappes - Strawberries & Cream - 3.25",8.7,CARD,8943981705213067
+26/11/2023 10:13,Longridge,Amanda Bates,"Regular Smoothies - Glowing Greens - 2.00, Regular Glass of milk - 0.70",2.7,CARD,2687508099624524
+26/11/2023 10:16,Longridge,Janice Sherlock,"Regular Glass of milk - 0.70, Regular Frappes - Strawberries & Cream - 2.75, Regular Frappes - Strawberries & Cream - 2.75, Large Mocha - 2.70",8.9,CARD,1380393885369579
+26/11/2023 10:19,Longridge,Ruby Dorman,"Large Mocha - 2.70, Regular Smoothies - Glowing Greens - 2.00, Large Glass of milk - 1.10, Large Speciality Tea - Earl Grey - 1.60, Large Glass of milk - 1.10",8.5,CASH,
+26/11/2023 10:22,Longridge,Walter Howard,"Regular Frappes - Strawberries & Cream - 2.75, Large Speciality Tea - Earl Grey - 1.60, Large Speciality Tea - Earl Grey - 1.60, Large Frappes - Strawberries & Cream - 3.25, Regular Frappes - Strawberries & Cream - 2.75, Regular Glass of milk - 0.70",12.65,CARD,7981718599205973
+26/11/2023 10:25,Longridge,Kim Neville,"Large Speciality Tea - Earl Grey - 1.60, Regular Speciality Tea - Earl Grey - 1.30, Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Caramel - 2.75, Large Frappes - Strawberries & Cream - 3.25",12.15,CARD,2636585350293331
+26/11/2023 10:29,Longridge,Jeffery Forbis,"Regular Frappes - Strawberries & Cream - 2.75, Large Flavoured iced latte - Caramel - 3.25, Regular Speciality Tea - Earl Grey - 1.30, Large Smoothies - Glowing Greens - 2.50, Large Flavoured iced latte - Caramel - 3.25",13.05,CARD,8925250544277005
+26/11/2023 10:32,Longridge,Marion Severson,Large Mocha - 2.70,2.7,CARD,2119517250305618
+26/11/2023 10:35,Longridge,Barbara King,"Large Frappes - Strawberries & Cream - 3.25, Large Mocha - 2.70",5.95,CARD,8692415400817524
+26/11/2023 10:38,Longridge,George Lomonaco,"Regular Frappes - Strawberries & Cream - 2.75, Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Caramel - 2.75, Regular Mocha - 2.30, Regular Speciality Tea - Earl Grey - 1.30",11.85,CARD,4148312084600934
+26/11/2023 10:41,Longridge,Maria Buckley,"Large Mocha - 2.70, Large Frappes - Strawberries & Cream - 3.25",5.95,CASH,
+26/11/2023 10:44,Longridge,David Goodman,Regular Smoothies - Glowing Greens - 2.00,2,CASH,
+26/11/2023 10:47,Longridge,Carlos Miller,"Regular Smoothies - Glowing Greens - 2.00, Regular Mocha - 2.30, Large Smoothies - Glowing Greens - 2.50",6.8,CARD,5683370252392341
+26/11/2023 10:51,Longridge,Marjorie Routson,"Regular Smoothies - Glowing Greens - 2.00, Large Glass of milk - 1.10, Regular Frappes - Strawberries & Cream - 2.75",5.85,CARD,5517697054346290
+26/11/2023 10:54,Longridge,Mark Baxter,"Regular Speciality Tea - Earl Grey - 1.30, Large Flavoured iced latte - Caramel - 3.25, Regular Frappes - Strawberries & Cream - 2.75, Regular Frappes - Strawberries & Cream - 2.75, Large Smoothies - Glowing Greens - 2.50",12.55,CASH,
+26/11/2023 10:57,Longridge,Evette Cooksey,"Large Flavoured iced latte - Caramel - 3.25, Regular Speciality Tea - Earl Grey - 1.30, Large Speciality Tea - Earl Grey - 1.60",6.15,CARD,8814665494898067
+26/11/2023 11:00,Longridge,Larry Warfield,"Large Frappes - Strawberries & Cream - 3.25, Regular Frappes - Strawberries & Cream - 2.75, Large Frappes - Strawberries & Cream - 3.25, Regular Glass of milk - 0.70, Large Frappes - Strawberries & Cream - 3.25, Large Flavoured iced latte - Caramel - 3.25",16.45,CARD,5050168836344319
+26/11/2023 11:08,Longridge,Neil Maxwell,"Regular Flavoured iced latte - Caramel - 2.75, Regular Frappes - Strawberries & Cream - 2.75, Regular Glass of milk - 0.70, Regular Frappes - Strawberries & Cream - 2.75",8.95,CASH,
+26/11/2023 11:15,Longridge,Irene Rennemeyer,"Large Flavoured iced latte - Caramel - 3.25, Regular Glass of milk - 0.70, Regular Flavoured iced latte - Caramel - 2.75",6.7,CARD,5889343254622297
+26/11/2023 11:23,Longridge,Pamela Parks,Large Speciality Tea - Earl Grey - 1.60,1.6,CASH,
+26/11/2023 11:30,Longridge,Alex Levin,"Large Frappes - Strawberries & Cream - 3.25, Large Flavoured iced latte - Caramel - 3.25, Large Smoothies - Glowing Greens - 2.50, Regular Speciality Tea - Earl Grey - 1.30",10.3,CARD,5566667220292431
+26/11/2023 11:38,Longridge,James Thomas,Large Speciality Tea - Earl Grey - 1.60,1.6,CARD,9325184387693553
+26/11/2023 11:45,Longridge,Donnell Sienkiewicz,Large Flavoured iced latte - Caramel - 3.25,3.25,CASH,
+26/11/2023 11:53,Longridge,Ethel Callahan,Large Smoothies - Glowing Greens - 2.50,2.5,CARD,5546512644300535
+26/11/2023 12:00,Longridge,Margaret Wohlert,"Large Glass of milk - 1.10, Large Mocha - 2.70, Large Frappes - Strawberries & Cream - 3.25",7.05,CARD,6656441156638581
+26/11/2023 12:06,Longridge,Vernetta Metzger,"Regular Glass of milk - 0.70, Large Frappes - Strawberries & Cream - 3.25",3.95,CARD,5332303650788238
+26/11/2023 12:12,Longridge,Ruby Godwin,"Large Frappes - Strawberries & Cream - 3.25, Regular Smoothies - Glowing Greens - 2.00",5.25,CASH,
+26/11/2023 12:18,Longridge,Mary Martin,"Large Mocha - 2.70, Large Smoothies - Glowing Greens - 2.50",5.2,CARD,7429051229305924
+26/11/2023 12:24,Longridge,Patricia Bridge,"Large Speciality Tea - Earl Grey - 1.60, Large Smoothies - Glowing Greens - 2.50, Regular Frappes - Strawberries & Cream - 2.75, Regular Glass of milk - 0.70",7.55,CARD,8959764535038626
+26/11/2023 12:30,Longridge,Mariana Whitlock,Large Frappes - Strawberries & Cream - 3.25,3.25,CARD,4379806663408531
+26/11/2023 12:36,Longridge,Thomas Straugh,Large Speciality Tea - Earl Grey - 1.60,1.6,CARD,5162508435701591
+26/11/2023 12:42,Longridge,Evelyn Davis,"Regular Speciality Tea - Earl Grey - 1.30, Regular Flavoured iced latte - Caramel - 2.75, Regular Smoothies - Glowing Greens - 2.00",6.05,CARD,9851181335397147
+26/11/2023 12:48,Longridge,Katherine Zaragoza,"Large Glass of milk - 1.10, Large Glass of milk - 1.10, Regular Flavoured iced latte - Caramel - 2.75, Large Mocha - 2.70, Regular Flavoured iced latte - Caramel - 2.75, Large Glass of milk - 1.10",11.5,CARD,6670152092107052
+26/11/2023 12:54,Longridge,Loren Johnson,"Large Smoothies - Glowing Greens - 2.50, Large Speciality Tea - Earl Grey - 1.60, Large Smoothies - Glowing Greens - 2.50",6.6,CARD,8155422057131336
+26/11/2023 13:00,Longridge,Sherry Jones,"Large Frappes - Strawberries & Cream - 3.25, Large Smoothies - Glowing Greens - 2.50",5.75,CASH,
+26/11/2023 13:01,Longridge,Richard Mouton,"Large Mocha - 2.70, Regular Smoothies - Glowing Greens - 2.00, Regular Mocha - 2.30",7,CASH,
+26/11/2023 13:02,Longridge,Anthony Concepcion,"Regular Smoothies - Glowing Greens - 2.00, Regular Smoothies - Glowing Greens - 2.00, Regular Frappes - Strawberries & Cream - 2.75, Regular Frappes - Strawberries & Cream - 2.75",9.5,CASH,
+26/11/2023 13:03,Longridge,Leon Young,"Regular Speciality Tea - Earl Grey - 1.30, Regular Glass of milk - 0.70",2,CASH,
+26/11/2023 13:04,Longridge,Mary Powell,"Large Mocha - 2.70, Regular Glass of milk - 0.70, Regular Frappes - Strawberries & Cream - 2.75",6.15,CARD,7278848507906924
+26/11/2023 13:05,Longridge,Steven Gravley,"Large Frappes - Strawberries & Cream - 3.25, Regular Mocha - 2.30, Regular Flavoured iced latte - Caramel - 2.75, Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Caramel - 3.25",14.8,CARD,4617277311808808
+26/11/2023 13:06,Longridge,Louise Mazor,"Regular Flavoured iced latte - Caramel - 2.75, Large Flavoured iced latte - Caramel - 3.25, Regular Frappes - Strawberries & Cream - 2.75",8.75,CASH,
+26/11/2023 13:07,Longridge,Leland Mccarthy,Regular Flavoured iced latte - Caramel - 2.75,2.75,CASH,
+26/11/2023 13:08,Longridge,Philip Washington,"Large Speciality Tea - Earl Grey - 1.60, Regular Flavoured iced latte - Caramel - 2.75, Large Smoothies - Glowing Greens - 2.50",6.85,CASH,
+26/11/2023 13:09,Longridge,Antoinette Rubin,"Large Mocha - 2.70, Regular Speciality Tea - Earl Grey - 1.30, Regular Frappes - Strawberries & Cream - 2.75",6.75,CARD,6216672460821736
+26/11/2023 13:10,Longridge,Anthony Pierce,"Regular Flavoured iced latte - Caramel - 2.75, Large Smoothies - Glowing Greens - 2.50, Large Frappes - Strawberries & Cream - 3.25",8.5,CARD,9882848791420238
+26/11/2023 13:10,Longridge,Stephen Noel,"Regular Smoothies - Glowing Greens - 2.00, Large Frappes - Strawberries & Cream - 3.25, Regular Smoothies - Glowing Greens - 2.00, Large Smoothies - Glowing Greens - 2.50, Large Smoothies - Glowing Greens - 2.50, Large Glass of milk - 1.10",13.35,CASH,
+26/11/2023 13:11,Longridge,Sergio Mcdorman,"Regular Speciality Tea - Earl Grey - 1.30, Regular Smoothies - Glowing Greens - 2.00, Regular Speciality Tea - Earl Grey - 1.30",4.6,CARD,3840508495093203
+26/11/2023 13:12,Longridge,Anthony Ford,"Regular Flavoured iced latte - Caramel - 2.75, Regular Speciality Tea - Earl Grey - 1.30, Regular Smoothies - Glowing Greens - 2.00, Regular Flavoured iced latte - Caramel - 2.75, Regular Mocha - 2.30",11.1,CARD,1311763348228409
+26/11/2023 13:13,Longridge,Fernando Collins,"Regular Frappes - Strawberries & Cream - 2.75, Large Frappes - Strawberries & Cream - 3.25",6,CASH,
+26/11/2023 13:14,Longridge,Matthew Irwin,Regular Frappes - Strawberries & Cream - 2.75,2.75,CARD,7270444332412810
+26/11/2023 13:15,Longridge,Timothy Turner,"Large Flavoured iced latte - Caramel - 3.25, Large Frappes - Strawberries & Cream - 3.25, Regular Frappes - Strawberries & Cream - 2.75, Regular Speciality Tea - Earl Grey - 1.30, Large Frappes - Strawberries & Cream - 3.25, Regular Speciality Tea - Earl Grey - 1.30",15.1,CASH,
+26/11/2023 13:16,Longridge,Jesus Tilton,"Large Glass of milk - 1.10, Large Glass of milk - 1.10",2.2,CASH,
+26/11/2023 13:17,Longridge,Charles Medina,"Large Frappes - Strawberries & Cream - 3.25, Large Flavoured iced latte - Caramel - 3.25",6.5,CARD,1647493797516384
+26/11/2023 13:18,Longridge,David Tillis,"Regular Smoothies - Glowing Greens - 2.00, Regular Smoothies - Glowing Greens - 2.00, Large Frappes - Strawberries & Cream - 3.25",7.25,CASH,
+26/11/2023 13:19,Longridge,Paul Ramos,"Regular Frappes - Strawberries & Cream - 2.75, Large Mocha - 2.70, Large Smoothies - Glowing Greens - 2.50, Large Mocha - 2.70",10.65,CARD,6004485767275145
+26/11/2023 13:20,Longridge,John Miller,"Large Speciality Tea - Earl Grey - 1.60, Large Speciality Tea - Earl Grey - 1.60",3.2,CARD,7482883363383921
+26/11/2023 13:21,Longridge,Kim Sandler,Regular Frappes - Strawberries & Cream - 2.75,2.75,CARD,4964481403227166
+26/11/2023 13:22,Longridge,Helen Brown,"Large Mocha - 2.70, Large Glass of milk - 1.10",3.8,CARD,8400644643839950
+26/11/2023 13:23,Longridge,Chris Smith,"Regular Speciality Tea - Earl Grey - 1.30, Large Frappes - Strawberries & Cream - 3.25, Large Speciality Tea - Earl Grey - 1.60",6.15,CARD,4370168540705783
+26/11/2023 13:24,Longridge,Jessica Williams,Regular Mocha - 2.30,2.3,CARD,5677276963200668
+26/11/2023 13:25,Longridge,Willie Mccann,"Large Smoothies - Glowing Greens - 2.50, Large Smoothies - Glowing Greens - 2.50, Regular Glass of milk - 0.70",5.7,CARD,2388665884328665
+26/11/2023 13:26,Longridge,Velma Smith,"Large Flavoured iced latte - Caramel - 3.25, Regular Glass of milk - 0.70, Large Glass of milk - 1.10",5.05,CARD,7309548194151244
+26/11/2023 13:27,Longridge,Iris Redd,"Regular Frappes - Strawberries & Cream - 2.75, Regular Mocha - 2.30",5.05,CARD,2745867724476981
+26/11/2023 13:28,Longridge,William Fiorentino,"Regular Smoothies - Glowing Greens - 2.00, Regular Glass of milk - 0.70",2.7,CARD,9621743204256535
+26/11/2023 13:29,Longridge,Benjamin Horton,"Regular Flavoured iced latte - Caramel - 2.75, Large Frappes - Strawberries & Cream - 3.25, Large Glass of milk - 1.10, Large Glass of milk - 1.10",8.2,CASH,
+26/11/2023 13:29,Longridge,Willie Anderson,"Regular Glass of milk - 0.70, Regular Frappes - Strawberries & Cream - 2.75, Large Mocha - 2.70, Large Frappes - Strawberries & Cream - 3.25, Regular Glass of milk - 0.70",10.1,CARD,4481909357102535
+26/11/2023 13:30,Longridge,Velma Smith,Large Smoothies - Glowing Greens - 2.50,2.5,CARD,8784426327288025
+26/11/2023 13:31,Longridge,John Vazquez,"Large Speciality Tea - Earl Grey - 1.60, Regular Mocha - 2.30, Regular Frappes - Strawberries & Cream - 2.75, Regular Speciality Tea - Earl Grey - 1.30",7.95,CARD,4553377356553433
+26/11/2023 13:32,Longridge,Patricia Teran,"Large Mocha - 2.70, Regular Frappes - Strawberries & Cream - 2.75, Large Glass of milk - 1.10, Regular Frappes - Strawberries & Cream - 2.75, Large Glass of milk - 1.10",10.4,CARD,1663026891478815
+26/11/2023 13:33,Longridge,Clayton Martin,"Regular Frappes - Strawberries & Cream - 2.75, Large Glass of milk - 1.10, Large Mocha - 2.70, Large Smoothies - Glowing Greens - 2.50",9.05,CARD,2693167256957167
+26/11/2023 13:34,Longridge,Heather Coles,"Regular Frappes - Strawberries & Cream - 2.75, Regular Smoothies - Glowing Greens - 2.00, Large Frappes - Strawberries & Cream - 3.25",8,CARD,8826648786245877
+26/11/2023 13:35,Longridge,Jose Deno,"Regular Mocha - 2.30, Large Frappes - Strawberries & Cream - 3.25",5.55,CARD,9043740736095174
+26/11/2023 13:36,Longridge,Douglas Davis,"Large Mocha - 2.70, Large Smoothies - Glowing Greens - 2.50, Large Flavoured iced latte - Caramel - 3.25, Large Smoothies - Glowing Greens - 2.50",10.95,CARD,9896932376009033
+26/11/2023 13:37,Longridge,Paul Lunsford,"Large Mocha - 2.70, Large Frappes - Strawberries & Cream - 3.25, Regular Frappes - Strawberries & Cream - 2.75, Large Frappes - Strawberries & Cream - 3.25",11.95,CASH,
+26/11/2023 13:38,Longridge,Zenia Poole,"Regular Frappes - Strawberries & Cream - 2.75, Regular Smoothies - Glowing Greens - 2.00",4.75,CASH,
+26/11/2023 13:39,Longridge,Gerald Gunter,"Regular Speciality Tea - Earl Grey - 1.30, Regular Speciality Tea - Earl Grey - 1.30",2.6,CASH,
+26/11/2023 13:40,Longridge,Travis Jennings,Regular Frappes - Strawberries & Cream - 2.75,2.75,CARD,9523660219318383
+26/11/2023 13:41,Longridge,Charles Hamm,"Regular Smoothies - Glowing Greens - 2.00, Large Mocha - 2.70",4.7,CASH,
+26/11/2023 13:42,Longridge,Marvin Skinner,"Regular Frappes - Strawberries & Cream - 2.75, Large Glass of milk - 1.10",3.85,CARD,3142257145627499
+26/11/2023 13:43,Longridge,Gloria Peloquin,Regular Frappes - Strawberries & Cream - 2.75,2.75,CASH,
+26/11/2023 13:44,Longridge,Pamela Greiner,"Large Speciality Tea - Earl Grey - 1.60, Large Speciality Tea - Earl Grey - 1.60, Regular Frappes - Strawberries & Cream - 2.75",5.95,CARD,9559273595496310
+26/11/2023 13:45,Longridge,Laura Seibert,Regular Mocha - 2.30,2.3,CARD,1803446644114852
+26/11/2023 13:46,Longridge,Paul Woosley,"Large Frappes - Strawberries & Cream - 3.25, Large Frappes - Strawberries & Cream - 3.25",6.5,CARD,6527609879089393
+26/11/2023 13:47,Longridge,Cesar Patrick,"Regular Glass of milk - 0.70, Large Smoothies - Glowing Greens - 2.50",3.2,CARD,8297568377697107
+26/11/2023 13:48,Longridge,Verda Kirby,"Large Glass of milk - 1.10, Regular Smoothies - Glowing Greens - 2.00, Regular Flavoured iced latte - Caramel - 2.75",5.85,CARD,8917834214593342
+26/11/2023 13:48,Longridge,Walter Anderson,"Large Flavoured iced latte - Caramel - 3.25, Regular Smoothies - Glowing Greens - 2.00",5.25,CASH,
+26/11/2023 13:49,Longridge,Vanessa Wyman,"Regular Frappes - Strawberries & Cream - 2.75, Large Mocha - 2.70, Regular Smoothies - Glowing Greens - 2.00, Regular Speciality Tea - Earl Grey - 1.30",8.75,CARD,9537307922327012
+26/11/2023 13:50,Longridge,Jean Patterson,"Regular Glass of milk - 0.70, Regular Smoothies - Glowing Greens - 2.00, Regular Mocha - 2.30",5,CASH,
+26/11/2023 13:51,Longridge,Mirella Fritz,"Regular Glass of milk - 0.70, Large Smoothies - Glowing Greens - 2.50, Regular Mocha - 2.30, Large Glass of milk - 1.10",6.6,CARD,8888931363615514
+26/11/2023 13:52,Longridge,Lawanda Sonnier,"Regular Frappes - Strawberries & Cream - 2.75, Large Smoothies - Glowing Greens - 2.50",5.25,CASH,
+26/11/2023 13:53,Longridge,Marjorie Ledoux,"Large Smoothies - Glowing Greens - 2.50, Regular Smoothies - Glowing Greens - 2.00",4.5,CASH,
+26/11/2023 13:54,Longridge,Kristina Madril,"Regular Frappes - Strawberries & Cream - 2.75, Large Mocha - 2.70",5.45,CASH,
+26/11/2023 13:55,Longridge,Gabrielle Tilley,Regular Glass of milk - 0.70,0.7,CASH,
+26/11/2023 13:56,Longridge,Ivan Stuzman,Large Speciality Tea - Earl Grey - 1.60,1.6,CARD,9786192262939105
+26/11/2023 13:57,Longridge,Virginia Cormier,Large Frappes - Strawberries & Cream - 3.25,3.25,CASH,
+26/11/2023 13:58,Longridge,Mark Bunch,Large Glass of milk - 1.10,1.1,CARD,3347827664598255
+26/11/2023 13:59,Longridge,Kim Bridges,"Regular Mocha - 2.30, Regular Flavoured iced latte - Caramel - 2.75",5.05,CARD,9961010916597168
+26/11/2023 14:00,Longridge,Michael Allen,"Large Flavoured iced latte - Caramel - 3.25, Large Mocha - 2.70",5.95,CARD,2803840804125362
+26/11/2023 14:03,Longridge,Walter Houston,"Regular Mocha - 2.30, Large Frappes - Strawberries & Cream - 3.25",5.55,CASH,
+26/11/2023 14:06,Longridge,Jennifer Lee,"Regular Frappes - Strawberries & Cream - 2.75, Regular Glass of milk - 0.70",3.45,CASH,
+26/11/2023 14:09,Longridge,Mitchell Vandoren,"Large Mocha - 2.70, Regular Mocha - 2.30, Regular Flavoured iced latte - Caramel - 2.75, Regular Frappes - Strawberries & Cream - 2.75",10.5,CASH,
+26/11/2023 14:12,Longridge,Samuel Tellez,"Large Frappes - Strawberries & Cream - 3.25, Large Flavoured iced latte - Caramel - 3.25, Large Speciality Tea - Earl Grey - 1.60, Large Speciality Tea - Earl Grey - 1.60",9.7,CARD,8724232104175111
+26/11/2023 14:16,Longridge,Patty Dunlop,Regular Frappes - Strawberries & Cream - 2.75,2.75,CARD,1087428578920906
+26/11/2023 14:19,Longridge,Clarence Rosenberg,Regular Frappes - Strawberries & Cream - 2.75,2.75,CARD,9862575660676221
+26/11/2023 14:22,Longridge,Fredericka Glenn,"Regular Frappes - Strawberries & Cream - 2.75, Large Speciality Tea - Earl Grey - 1.60, Large Mocha - 2.70",7.05,CARD,1020134129201646
+26/11/2023 14:25,Longridge,Brandon Adams,Regular Frappes - Strawberries & Cream - 2.75,2.75,CARD,3129427914959218
+26/11/2023 14:28,Longridge,Philip Burke,"Regular Frappes - Strawberries & Cream - 2.75, Regular Glass of milk - 0.70",3.45,CASH,
+26/11/2023 14:31,Longridge,Glen Reed,"Large Glass of milk - 1.10, Regular Frappes - Strawberries & Cream - 2.75",3.85,CASH,
+26/11/2023 14:35,Longridge,Maria Ware,"Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Caramel - 2.75, Large Speciality Tea - Earl Grey - 1.60",7.1,CARD,5068547769240967
+26/11/2023 14:38,Longridge,Herman Tubbs,"Large Mocha - 2.70, Regular Flavoured iced latte - Caramel - 2.75, Regular Mocha - 2.30",7.75,CARD,1535123478979757
+26/11/2023 14:41,Longridge,Carol Mason,"Regular Frappes - Strawberries & Cream - 2.75, Large Frappes - Strawberries & Cream - 3.25",6,CARD,6160387187770283
+26/11/2023 14:44,Longridge,Laura Farrish,Large Frappes - Strawberries & Cream - 3.25,3.25,CASH,
+26/11/2023 14:47,Longridge,Brent Conway,"Regular Speciality Tea - Earl Grey - 1.30, Large Speciality Tea - Earl Grey - 1.60, Regular Flavoured iced latte - Caramel - 2.75",5.65,CARD,9795755551406312
+26/11/2023 14:50,Longridge,Ella Switzer,"Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Caramel - 2.75",8.25,CASH,
+26/11/2023 14:53,Longridge,Dolores Crislip,Regular Flavoured iced latte - Caramel - 2.75,2.75,CARD,9235986040576200
+26/11/2023 14:57,Longridge,Michael King,"Regular Glass of milk - 0.70, Regular Smoothies - Glowing Greens - 2.00, Regular Frappes - Strawberries & Cream - 2.75",5.45,CARD,2168579994408934
+26/11/2023 15:00,Longridge,Mary Moore,"Large Smoothies - Glowing Greens - 2.50, Large Mocha - 2.70, Large Flavoured iced latte - Caramel - 3.25",8.45,CARD,3386703591738393
+26/11/2023 15:01,Longridge,Floyd Houchin,"Large Smoothies - Glowing Greens - 2.50, Regular Mocha - 2.30",4.8,CARD,1148326696540661
+26/11/2023 15:02,Longridge,Robert Baker,Large Mocha - 2.70,2.7,CARD,9098228098349894
+26/11/2023 15:03,Longridge,Raymond Moya,"Regular Mocha - 2.30, Regular Smoothies - Glowing Greens - 2.00, Large Smoothies - Glowing Greens - 2.50",6.8,CARD,5645898576471699
+26/11/2023 15:04,Longridge,Doris Dickson,Regular Smoothies - Glowing Greens - 2.00,2,CARD,6537561007232662
+26/11/2023 15:05,Longridge,Frances Affagato,"Regular Frappes - Strawberries & Cream - 2.75, Regular Frappes - Strawberries & Cream - 2.75",5.5,CARD,4702800578324661
+26/11/2023 15:06,Longridge,Patricia Fenelus,"Large Mocha - 2.70, Regular Glass of milk - 0.70, Large Smoothies - Glowing Greens - 2.50",5.9,CARD,3369122937228067
+26/11/2023 15:07,Longridge,April Sheffield,"Regular Glass of milk - 0.70, Large Flavoured iced latte - Caramel - 3.25, Regular Speciality Tea - Earl Grey - 1.30",5.25,CARD,8966621073177582
+26/11/2023 15:08,Longridge,Mary Posson,Large Frappes - Strawberries & Cream - 3.25,3.25,CASH,
+26/11/2023 15:09,Longridge,Mark Plungy,Large Smoothies - Glowing Greens - 2.50,2.5,CASH,
+26/11/2023 15:10,Longridge,Peggy Martinez,"Regular Mocha - 2.30, Regular Glass of milk - 0.70, Large Frappes - Strawberries & Cream - 3.25, Regular Speciality Tea - Earl Grey - 1.30, Large Speciality Tea - Earl Grey - 1.60",9.15,CARD,4898729919305834
+26/11/2023 15:11,Longridge,Suzanne Byrd,"Regular Smoothies - Glowing Greens - 2.00, Large Mocha - 2.70",4.7,CARD,4129457583708641
+26/11/2023 15:12,Longridge,Tamika Guerra,Large Glass of milk - 1.10,1.1,CARD,6453400383518842
+26/11/2023 15:13,Longridge,Randy Reid,"Regular Mocha - 2.30, Large Frappes - Strawberries & Cream - 3.25",5.55,CARD,3877614937352175
+26/11/2023 15:14,Longridge,Lenore Henry,Regular Frappes - Strawberries & Cream - 2.75,2.75,CARD,4788093784480548
+26/11/2023 15:15,Longridge,Judith Luna,"Regular Flavoured iced latte - Caramel - 2.75, Regular Flavoured iced latte - Caramel - 2.75, Regular Frappes - Strawberries & Cream - 2.75, Regular Glass of milk - 0.70, Regular Flavoured iced latte - Caramel - 2.75, Large Mocha - 2.70",14.4,CASH,
+26/11/2023 15:16,Longridge,Jeffrey Wojciak,"Large Glass of milk - 1.10, Regular Flavoured iced latte - Caramel - 2.75",3.85,CARD,6656790455562403
+26/11/2023 15:17,Longridge,Elizabeth Jones,"Regular Speciality Tea - Earl Grey - 1.30, Large Smoothies - Glowing Greens - 2.50",3.8,CASH,
+26/11/2023 15:18,Longridge,Christine Johnson,"Regular Frappes - Strawberries & Cream - 2.75, Regular Glass of milk - 0.70, Large Smoothies - Glowing Greens - 2.50",5.95,CARD,8740404945187181
+26/11/2023 15:19,Longridge,Carla Joyner,"Large Mocha - 2.70, Regular Smoothies - Glowing Greens - 2.00",4.7,CASH,
+26/11/2023 15:20,Longridge,Nola Mcdonald,"Regular Mocha - 2.30, Regular Speciality Tea - Earl Grey - 1.30, Large Flavoured iced latte - Caramel - 3.25, Regular Mocha - 2.30",9.15,CASH,
+26/11/2023 15:21,Longridge,John Burcham,Large Flavoured iced latte - Caramel - 3.25,3.25,CASH,
+26/11/2023 15:22,Longridge,John Bravo,"Regular Glass of milk - 0.70, Regular Frappes - Strawberries & Cream - 2.75, Regular Glass of milk - 0.70",4.15,CARD,8941140219509762
+26/11/2023 15:23,Longridge,Margie James,Regular Flavoured iced latte - Caramel - 2.75,2.75,CASH,
+26/11/2023 15:25,Longridge,Shawna Lincoln,"Regular Glass of milk - 0.70, Large Mocha - 2.70, Regular Smoothies - Glowing Greens - 2.00",5.4,CASH,
+26/11/2023 15:26,Longridge,Christine Beach,"Regular Mocha - 2.30, Large Smoothies - Glowing Greens - 2.50, Regular Smoothies - Glowing Greens - 2.00",6.8,CARD,9637784798371105
+26/11/2023 15:27,Longridge,Winnifred Bowser,"Regular Mocha - 2.30, Large Glass of milk - 1.10, Regular Frappes - Strawberries & Cream - 2.75, Large Mocha - 2.70, Regular Glass of milk - 0.70",9.55,CARD,8169428438060316
+26/11/2023 15:28,Longridge,James Lloyd,"Regular Mocha - 2.30, Regular Frappes - Strawberries & Cream - 2.75",5.05,CARD,6987045696242282
+26/11/2023 15:29,Longridge,Elizabeth Su,"Large Speciality Tea - Earl Grey - 1.60, Regular Smoothies - Glowing Greens - 2.00, Regular Mocha - 2.30, Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Caramel - 3.25",12.4,CARD,2631033171855837
+26/11/2023 15:30,Longridge,Roslyn Pulver,"Regular Glass of milk - 0.70, Regular Speciality Tea - Earl Grey - 1.30",2,CASH,
+26/11/2023 15:31,Longridge,Robert Davidson,"Large Frappes - Strawberries & Cream - 3.25, Large Mocha - 2.70",5.95,CARD,8880589552826569
+26/11/2023 15:32,Longridge,Janet Moon,Large Mocha - 2.70,2.7,CASH,
+26/11/2023 15:33,Longridge,Daniel Matney,"Large Mocha - 2.70, Regular Speciality Tea - Earl Grey - 1.30",4,CASH,
+26/11/2023 15:34,Longridge,Michael Witherspoon,"Regular Mocha - 2.30, Large Speciality Tea - Earl Grey - 1.60, Regular Smoothies - Glowing Greens - 2.00, Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Caramel - 2.75",15.15,CARD,1757554452663567
+26/11/2023 15:35,Longridge,Joyce Barnes,Large Glass of milk - 1.10,1.1,CASH,
+26/11/2023 15:36,Longridge,John Sansoucy,"Regular Frappes - Strawberries & Cream - 2.75, Regular Speciality Tea - Earl Grey - 1.30, Regular Smoothies - Glowing Greens - 2.00, Large Glass of milk - 1.10, Large Smoothies - Glowing Greens - 2.50",9.65,CASH,
+26/11/2023 15:37,Longridge,Ines Taylor,Large Glass of milk - 1.10,1.1,CARD,1970468393975369
+26/11/2023 15:38,Longridge,Craig Stapleton,Large Glass of milk - 1.10,1.1,CARD,4040578599265693
+26/11/2023 15:39,Longridge,Rowena Flowers,"Regular Flavoured iced latte - Caramel - 2.75, Regular Smoothies - Glowing Greens - 2.00",4.75,CARD,7707498054719002
+26/11/2023 15:40,Longridge,Charles Rushing,"Regular Frappes - Strawberries & Cream - 2.75, Large Frappes - Strawberries & Cream - 3.25, Regular Smoothies - Glowing Greens - 2.00",8,CARD,5691475828237540
+26/11/2023 15:41,Longridge,Lori Rogers,"Large Speciality Tea - Earl Grey - 1.60, Regular Smoothies - Glowing Greens - 2.00, Regular Speciality Tea - Earl Grey - 1.30, Regular Glass of milk - 0.70",5.6,CASH,
+26/11/2023 15:42,Longridge,Micah Escobedo,Large Frappes - Strawberries & Cream - 3.25,3.25,CASH,
+26/11/2023 15:43,Longridge,Anthony Burr,"Large Frappes - Strawberries & Cream - 3.25, Regular Speciality Tea - Earl Grey - 1.30",4.55,CARD,7877715007814011
+26/11/2023 15:44,Longridge,Cindy Reeser,"Large Mocha - 2.70, Large Smoothies - Glowing Greens - 2.50, Large Glass of milk - 1.10, Large Smoothies - Glowing Greens - 2.50, Large Flavoured iced latte - Caramel - 3.25, Large Flavoured iced latte - Caramel - 3.25",15.3,CARD,6115517652819174
+26/11/2023 15:45,Longridge,Ethel Rice,Regular Smoothies - Glowing Greens - 2.00,2,CARD,6248245186453058
+26/11/2023 15:46,Longridge,Geraldine Houston,"Regular Flavoured iced latte - Caramel - 2.75, Large Flavoured iced latte - Caramel - 3.25, Large Speciality Tea - Earl Grey - 1.60, Regular Frappes - Strawberries & Cream - 2.75",10.35,CARD,5211282212454563
+26/11/2023 15:47,Longridge,Sandra Campbell,Regular Smoothies - Glowing Greens - 2.00,2,CARD,1242726546187703
+26/11/2023 15:48,Longridge,David Winters,"Large Glass of milk - 1.10, Regular Speciality Tea - Earl Grey - 1.30, Regular Frappes - Strawberries & Cream - 2.75",5.15,CASH,
+26/11/2023 15:49,Longridge,Ray Pitcock,Large Speciality Tea - Earl Grey - 1.60,1.6,CARD,5965070504139955
+26/11/2023 15:50,Longridge,Sheryl Monnier,"Regular Mocha - 2.30, Large Speciality Tea - Earl Grey - 1.60",3.9,CASH,
+26/11/2023 15:51,Longridge,William Pierson,Large Speciality Tea - Earl Grey - 1.60,1.6,CARD,4540292029609687
+26/11/2023 15:52,Longridge,Corey Zimmerman,"Large Speciality Tea - Earl Grey - 1.60, Large Smoothies - Glowing Greens - 2.50, Regular Frappes - Strawberries & Cream - 2.75",6.85,CASH,
+26/11/2023 15:53,Longridge,Henry Morris,"Large Mocha - 2.70, Regular Speciality Tea - Earl Grey - 1.30, Regular Glass of milk - 0.70",4.7,CASH,
+26/11/2023 15:54,Longridge,William Carson,"Regular Smoothies - Glowing Greens - 2.00, Regular Mocha - 2.30, Large Flavoured iced latte - Caramel - 3.25, Regular Frappes - Strawberries & Cream - 2.75",10.3,CARD,8252560708784283
+26/11/2023 15:56,Longridge,Marie Lombard,"Regular Flavoured iced latte - Caramel - 2.75, Regular Mocha - 2.30",5.05,CASH,
+26/11/2023 15:57,Longridge,Harvey Martin,"Large Frappes - Strawberries & Cream - 3.25, Large Glass of milk - 1.10, Regular Flavoured iced latte - Caramel - 2.75",7.1,CARD,1187030293008535
+26/11/2023 15:58,Longridge,Debra Fick,"Large Frappes - Strawberries & Cream - 3.25, Large Smoothies - Glowing Greens - 2.50",5.75,CARD,4889603585212901
+26/11/2023 15:59,Longridge,Charlotte Garcia,"Large Smoothies - Glowing Greens - 2.50, Large Speciality Tea - Earl Grey - 1.60, Large Smoothies - Glowing Greens - 2.50, Regular Flavoured iced latte - Caramel - 2.75",9.35,CASH,
+26/11/2023 16:00,Longridge,Paul Little,"Large Speciality Tea - Earl Grey - 1.60, Large Speciality Tea - Earl Grey - 1.60",3.2,CARD,2608344082926793
+26/11/2023 16:02,Longridge,Gary Sprinkle,"Large Mocha - 2.70, Regular Speciality Tea - Earl Grey - 1.30, Regular Glass of milk - 0.70, Large Flavoured iced latte - Caramel - 3.25, Large Smoothies - Glowing Greens - 2.50",10.45,CARD,3798993384100502
+26/11/2023 16:04,Longridge,Billie Reed,"Large Glass of milk - 1.10, Regular Smoothies - Glowing Greens - 2.00",3.1,CARD,4962720164723806
+26/11/2023 16:06,Longridge,Marlene Davis,Large Flavoured iced latte - Caramel - 3.25,3.25,CASH,
+26/11/2023 16:08,Longridge,Mark Pendergast,Regular Frappes - Strawberries & Cream - 2.75,2.75,CARD,7542895353895753
+26/11/2023 16:10,Longridge,Doris Moorefield,"Regular Glass of milk - 0.70, Regular Smoothies - Glowing Greens - 2.00, Regular Glass of milk - 0.70, Regular Glass of milk - 0.70, Large Flavoured iced latte - Caramel - 3.25",7.35,CASH,
+26/11/2023 16:12,Longridge,Clint Moore,Large Flavoured iced latte - Caramel - 3.25,3.25,CARD,6559284984854333
+26/11/2023 16:14,Longridge,Kathlyn Mains,"Large Flavoured iced latte - Caramel - 3.25, Large Speciality Tea - Earl Grey - 1.60",4.85,CARD,6497981885873218
+26/11/2023 16:16,Longridge,Elizabeth Ashley,Large Speciality Tea - Earl Grey - 1.60,1.6,CARD,3228848940423804
+26/11/2023 16:18,Longridge,Jerry Shoults,Regular Frappes - Strawberries & Cream - 2.75,2.75,CARD,7968885816975611
+26/11/2023 16:20,Longridge,Alma Matson,"Regular Frappes - Strawberries & Cream - 2.75, Regular Mocha - 2.30",5.05,CARD,2963496545496620
+26/11/2023 16:22,Longridge,Jessica Jones,"Large Smoothies - Glowing Greens - 2.50, Large Mocha - 2.70",5.2,CARD,7092770349475733
+26/11/2023 16:24,Longridge,Donald Yazzie,Large Frappes - Strawberries & Cream - 3.25,3.25,CARD,5629078028130573
+26/11/2023 16:26,Longridge,William Martin,Large Glass of milk - 1.10,1.1,CARD,7969861539347656
+26/11/2023 16:28,Longridge,Paul Myott,"Regular Smoothies - Glowing Greens - 2.00, Regular Frappes - Strawberries & Cream - 2.75",4.75,CASH,
+26/11/2023 16:30,Longridge,Carolyn Diggs,"Large Glass of milk - 1.10, Regular Frappes - Strawberries & Cream - 2.75, Large Smoothies - Glowing Greens - 2.50",6.35,CARD,7047421221516999
+26/11/2023 16:32,Longridge,Terry Bourgeois,"Regular Frappes - Strawberries & Cream - 2.75, Large Glass of milk - 1.10",3.85,CASH,
+26/11/2023 16:34,Longridge,Steven Stgermain,"Large Speciality Tea - Earl Grey - 1.60, Regular Glass of milk - 0.70",2.3,CARD,9524579843572645
+26/11/2023 16:36,Longridge,Jerry Cory,Regular Frappes - Strawberries & Cream - 2.75,2.75,CARD,1533042767218036
+26/11/2023 16:38,Longridge,John Webb,"Regular Glass of milk - 0.70, Large Mocha - 2.70, Regular Mocha - 2.30, Regular Glass of milk - 0.70, Regular Flavoured iced latte - Caramel - 2.75",9.15,CARD,9598432260238779
+26/11/2023 16:40,Longridge,Edward Jung,Large Smoothies - Glowing Greens - 2.50,2.5,CARD,1739330105001006
+26/11/2023 16:42,Longridge,Corey Terrell,"Large Flavoured iced latte - Caramel - 3.25, Large Glass of milk - 1.10, Large Frappes - Strawberries & Cream - 3.25",7.6,CASH,
+26/11/2023 16:44,Longridge,Christopher Wilson,"Regular Frappes - Strawberries & Cream - 2.75, Regular Smoothies - Glowing Greens - 2.00",4.75,CARD,9171448733155422
+26/11/2023 16:46,Longridge,Donald Liriano,"Large Flavoured iced latte - Caramel - 3.25, Regular Flavoured iced latte - Caramel - 2.75",6,CARD,4240999483481930
+26/11/2023 16:48,Longridge,Andrea Bauman,"Regular Mocha - 2.30, Large Mocha - 2.70, Regular Glass of milk - 0.70, Regular Mocha - 2.30",8,CARD,3476468232895041
+26/11/2023 16:50,Longridge,Kenneth Walker,"Large Speciality Tea - Earl Grey - 1.60, Regular Smoothies - Glowing Greens - 2.00",3.6,CARD,1881409429766640
+26/11/2023 16:52,Longridge,Jared Prado,"Regular Frappes - Strawberries & Cream - 2.75, Regular Glass of milk - 0.70, Regular Glass of milk - 0.70",4.15,CARD,7350997764683519
+26/11/2023 16:54,Longridge,Harold Bode,Large Speciality Tea - Earl Grey - 1.60,1.6,CASH,
+26/11/2023 16:56,Longridge,Cheryl Tice,"Regular Mocha - 2.30, Large Frappes - Strawberries & Cream - 3.25, Regular Mocha - 2.30",7.85,CARD,3401133556346235
+26/11/2023 16:58,Longridge,John Rubin,"Large Mocha - 2.70, Regular Frappes - Strawberries & Cream - 2.75",5.45,CASH,

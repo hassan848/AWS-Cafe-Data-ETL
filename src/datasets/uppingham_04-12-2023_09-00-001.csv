@@ -1,0 +1,260 @@
+date,location,name,basket,total,payment_type,card_number
+04/12/2023 09:00,Uppingham,Diann Gorden,"Large Flavoured latte - Caramel - 2.85, Regular Flavoured latte - Hazelnut - 2.55, Regular Smoothies - Berry Beautiful - 2.00, Regular Hot chocolate - 2.20, Regular Flavoured latte - Caramel - 2.55",12.15,CARD,9825009034136857
+04/12/2023 09:01,Uppingham,Donald Spaulding,"Large Hot chocolate - 2.90, Large Flavoured latte - Caramel - 2.85, Large Mocha - 2.70",8.45,CASH,
+04/12/2023 09:02,Uppingham,Daniel Flynn,Regular Cortado - 2.05,2.05,CASH,
+04/12/2023 09:03,Uppingham,William Lagrone,"Regular Smoothies - Berry Beautiful - 2.00, Large Mocha - 2.70",4.7,CARD,9500105795708368
+04/12/2023 09:04,Uppingham,Cecil Macias,Regular Mocha - 2.30,2.3,CARD,7183776232981951
+04/12/2023 09:05,Uppingham,Rhonda Elza,Large Red Label tea - 1.80,1.8,CARD,8764017201595779
+04/12/2023 09:06,Uppingham,Helen Knight,"Large Speciality Tea - Peppermint - 1.60, Regular Speciality Tea - Peppermint - 1.30",2.9,CASH,
+04/12/2023 09:07,Uppingham,Lee Schubert,Regular Flavoured latte - Caramel - 2.55,2.55,CASH,
+04/12/2023 09:08,Uppingham,Ilene Copley,"Large Red Label tea - 1.80, Regular Flavoured hot chocolate - Vanilla - 2.60",4.4,CASH,
+04/12/2023 09:09,Uppingham,Maxwell Trongone,"Regular Cortado - 2.05, Regular Flavoured hot chocolate - Vanilla - 2.60",4.65,CARD,5064019701811352
+04/12/2023 09:10,Uppingham,Dolores Mcdonald,"Large Flavoured hot chocolate - Vanilla - 2.90, Regular Speciality Tea - Green - 1.30, Large Flavoured latte - Caramel - 2.85, Large Flavoured latte - Caramel - 2.85, Large Cortado - 2.35, Regular Smoothies - Berry Beautiful - 2.00",14.25,CASH,
+04/12/2023 09:11,Uppingham,Elsie Strawser,"Large Red Label tea - 1.80, Regular Flavoured latte - Caramel - 2.55, Regular Red Label tea - 1.20",5.55,CARD,8034430529732352
+04/12/2023 09:12,Uppingham,Edna Sandoval,"Regular Flavoured latte - Hazelnut - 2.55, Large Speciality Tea - Peppermint - 1.60",4.15,CARD,2987057289447415
+04/12/2023 09:13,Uppingham,Sergio Broussard,"Large Speciality Tea - Peppermint - 1.60, Large Smoothies - Berry Beautiful - 2.50, Large Speciality Tea - Peppermint - 1.60",5.7,CASH,
+04/12/2023 09:14,Uppingham,Timothy Mcmurray,"Regular Flavoured latte - Caramel - 2.55, Regular Flavoured hot chocolate - Vanilla - 2.60",5.15,CARD,1253088281247683
+04/12/2023 09:15,Uppingham,Edward Sorensen,"Regular Flavoured latte - Caramel - 2.55, Large Hot chocolate - 2.90",5.45,CARD,5401708715625293
+04/12/2023 09:16,Uppingham,Randall Dullea,"Large Hot chocolate - 2.90, Regular Mocha - 2.30, Regular Red Label tea - 1.20, Regular Flavoured hot chocolate - Vanilla - 2.60, Regular Mocha - 2.30",11.3,CASH,
+04/12/2023 09:17,Uppingham,Ethel Topete,Regular Hot chocolate - 2.20,2.2,CASH,
+04/12/2023 09:18,Uppingham,Carrie Craig,Regular Speciality Tea - Green - 1.30,1.3,CARD,5572259759735889
+04/12/2023 09:19,Uppingham,Vicki Young,"Large Flavoured latte - Caramel - 2.85, Large Hot chocolate - 2.90, Regular Smoothies - Berry Beautiful - 2.00",7.75,CASH,
+04/12/2023 09:20,Uppingham,Eugene Hawkins,"Large Flavoured latte - Caramel - 2.85, Large Cortado - 2.35",5.2,CARD,9060019670802910
+04/12/2023 09:21,Uppingham,Kevin Cainne,"Large Hot chocolate - 2.90, Large Smoothies - Berry Beautiful - 2.50, Large Speciality Tea - Green - 1.60",7.0,CARD,6861529055369329
+04/12/2023 09:22,Uppingham,Thomas Lundstrom,"Regular Smoothies - Berry Beautiful - 2.00, Large Smoothies - Berry Beautiful - 2.50, Regular Hot chocolate - 2.20",6.7,CASH,
+04/12/2023 09:23,Uppingham,Karen Beach,"Large Flavoured latte - Hazelnut - 2.85, Large Cortado - 2.35, Regular Flavoured latte - Hazelnut - 2.55, Regular Mocha - 2.30",10.05,CARD,3554552087285761
+04/12/2023 09:24,Uppingham,Jose Diaz,"Regular Flavoured hot chocolate - Vanilla - 2.60, Large Speciality Tea - Green - 1.60",4.2,CARD,7868263601270832
+04/12/2023 09:25,Uppingham,Marcella Beyer,"Regular Speciality Tea - Peppermint - 1.30, Large Red Label tea - 1.80",3.1,CASH,
+04/12/2023 09:26,Uppingham,Theodore Livingston,"Large Hot chocolate - 2.90, Large Flavoured hot chocolate - Vanilla - 2.90, Large Mocha - 2.70, Regular Smoothies - Berry Beautiful - 2.00",10.5,CARD,9373765161298895
+04/12/2023 09:27,Uppingham,Garry Long,Regular Speciality Tea - Green - 1.30,1.3,CASH,
+04/12/2023 09:28,Uppingham,Jeremy Ramsey,"Large Speciality Tea - Green - 1.60, Regular Speciality Tea - Peppermint - 1.30, Regular Mocha - 2.30, Regular Smoothies - Berry Beautiful - 2.00",7.2,CASH,
+04/12/2023 09:29,Uppingham,Jacob Hopper,"Large Flavoured hot chocolate - Vanilla - 2.90, Regular Speciality Tea - Green - 1.30, Regular Flavoured latte - Hazelnut - 2.55",6.75,CASH,
+04/12/2023 09:30,Uppingham,Sibyl Hennessey,"Large Smoothies - Berry Beautiful - 2.50, Regular Flavoured hot chocolate - Vanilla - 2.60, Large Hot chocolate - 2.90, Large Speciality Tea - Peppermint - 1.60",9.6,CARD,6512159365350219
+04/12/2023 09:31,Uppingham,Dale Platt,"Regular Red Label tea - 1.20, Large Speciality Tea - Green - 1.60",2.8,CASH,
+04/12/2023 09:32,Uppingham,Tammy Sigler,Regular Hot chocolate - 2.20,2.2,CASH,
+04/12/2023 09:33,Uppingham,David Condo,"Large Speciality Tea - Peppermint - 1.60, Regular Cortado - 2.05, Regular Cortado - 2.05",5.7,CASH,
+04/12/2023 09:34,Uppingham,Apryl Parrott,"Large Flavoured latte - Caramel - 2.85, Large Speciality Tea - Green - 1.60",4.45,CARD,2175142442801689
+04/12/2023 09:35,Uppingham,Randolph Grubb,"Large Hot chocolate - 2.90, Regular Red Label tea - 1.20",4.1,CASH,
+04/12/2023 09:36,Uppingham,Terry Trujillo,"Large Hot chocolate - 2.90, Regular Mocha - 2.30",5.2,CARD,5014095791584142
+04/12/2023 09:37,Uppingham,Alline Jackson,Regular Red Label tea - 1.20,1.2,CARD,3393123267213564
+04/12/2023 09:38,Uppingham,Antonio Beaver,Regular Speciality Tea - Peppermint - 1.30,1.3,CARD,5395500416476551
+04/12/2023 09:39,Uppingham,Suzanne Miller,"Large Speciality Tea - Peppermint - 1.60, Regular Speciality Tea - Green - 1.30, Large Hot chocolate - 2.90",5.8,CARD,8665933473751446
+04/12/2023 09:40,Uppingham,Troy Sayre,"Regular Cortado - 2.05, Regular Red Label tea - 1.20, Large Cortado - 2.35, Regular Mocha - 2.30, Regular Flavoured latte - Caramel - 2.55",10.45,CARD,7906585683561560
+04/12/2023 09:41,Uppingham,Connie Marquis,Regular Flavoured latte - Hazelnut - 2.55,2.55,CARD,4829575728705707
+04/12/2023 09:42,Uppingham,Ann Martinez,"Regular Mocha - 2.30, Regular Speciality Tea - Green - 1.30, Large Flavoured latte - Hazelnut - 2.85, Regular Speciality Tea - Peppermint - 1.30, Regular Speciality Tea - Green - 1.30, Regular Speciality Tea - Peppermint - 1.30",10.35,CASH,
+04/12/2023 09:43,Uppingham,Annetta Ramaker,"Regular Speciality Tea - Green - 1.30, Large Flavoured hot chocolate - Vanilla - 2.90, Regular Red Label tea - 1.20",5.4,CARD,8895737274290785
+04/12/2023 09:44,Uppingham,William Needleman,Large Speciality Tea - Peppermint - 1.60,1.6,CASH,
+04/12/2023 09:45,Uppingham,Rose Richey,"Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured hot chocolate - Vanilla - 2.60",5.15,CARD,3345840046934314
+04/12/2023 09:46,Uppingham,Jack Kincaid,"Large Smoothies - Berry Beautiful - 2.50, Regular Mocha - 2.30",4.8,CASH,
+04/12/2023 09:47,Uppingham,Michael Anklam,"Regular Flavoured hot chocolate - Vanilla - 2.60, Large Flavoured hot chocolate - Vanilla - 2.90, Large Cortado - 2.35, Regular Flavoured latte - Hazelnut - 2.55",10.4,CARD,2965283622651586
+04/12/2023 09:48,Uppingham,Ena Hawkinson,"Regular Flavoured latte - Caramel - 2.55, Large Flavoured latte - Hazelnut - 2.85, Regular Mocha - 2.30, Regular Flavoured latte - Hazelnut - 2.55, Regular Hot chocolate - 2.20",12.45,CASH,
+04/12/2023 09:49,Uppingham,Eric Mojica,"Large Speciality Tea - Peppermint - 1.60, Large Mocha - 2.70, Large Speciality Tea - Peppermint - 1.60, Regular Flavoured hot chocolate - Vanilla - 2.60, Regular Hot chocolate - 2.20",10.7,CARD,7509904153212617
+04/12/2023 09:50,Uppingham,Myrtle Trapp,Large Mocha - 2.70,2.7,CASH,
+04/12/2023 09:51,Uppingham,Shirley Dobbins,"Large Hot chocolate - 2.90, Regular Flavoured latte - Hazelnut - 2.55, Large Smoothies - Berry Beautiful - 2.50, Regular Red Label tea - 1.20",9.15,CARD,3596207451047631
+04/12/2023 09:52,Uppingham,John Collins,"Large Hot chocolate - 2.90, Large Hot chocolate - 2.90, Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured latte - Hazelnut - 2.85, Regular Cortado - 2.05",16.1,CARD,4722941500170679
+04/12/2023 09:53,Uppingham,Sherri Tejera,Regular Red Label tea - 1.20,1.2,CARD,6115469838304699
+04/12/2023 09:54,Uppingham,Alina Johnson,"Regular Cortado - 2.05, Regular Flavoured latte - Caramel - 2.55, Large Red Label tea - 1.80, Large Speciality Tea - Peppermint - 1.60, Large Hot chocolate - 2.90",10.9,CASH,
+04/12/2023 09:55,Uppingham,Anna Mcelwain,"Large Flavoured latte - Hazelnut - 2.85, Large Speciality Tea - Peppermint - 1.60, Regular Cortado - 2.05, Large Flavoured latte - Caramel - 2.85",9.35,CARD,2098527510951658
+04/12/2023 09:56,Uppingham,Zackary Webster,"Large Flavoured hot chocolate - Vanilla - 2.90, Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured latte - Hazelnut - 2.85, Large Hot chocolate - 2.90, Large Flavoured latte - Hazelnut - 2.85",14.05,CARD,2890052493580775
+04/12/2023 09:57,Uppingham,Elizabeth Brown,"Large Mocha - 2.70, Large Speciality Tea - Peppermint - 1.60",4.3,CARD,6520023106267529
+04/12/2023 09:58,Uppingham,Richard Coates,"Large Flavoured latte - Hazelnut - 2.85, Regular Mocha - 2.30, Large Flavoured latte - Caramel - 2.85, Large Speciality Tea - Peppermint - 1.60, Regular Red Label tea - 1.20",10.8,CARD,3852887171238254
+04/12/2023 09:59,Uppingham,Rafael Dubois,Large Hot chocolate - 2.90,2.9,CARD,1671036850527491
+04/12/2023 10:01,Uppingham,Laura Meadows,"Regular Red Label tea - 1.20, Regular Hot chocolate - 2.20, Regular Speciality Tea - Peppermint - 1.30",4.7,CARD,5325771699920035
+04/12/2023 10:02,Uppingham,Sandra Plunk,Large Cortado - 2.35,2.35,CARD,9522305898780562
+04/12/2023 10:03,Uppingham,Jeannette Teaff,"Regular Hot chocolate - 2.20, Regular Speciality Tea - Peppermint - 1.30, Large Speciality Tea - Green - 1.60",5.1,CARD,8058678717218615
+04/12/2023 10:04,Uppingham,Francis White,"Large Flavoured hot chocolate - Vanilla - 2.90, Large Red Label tea - 1.80, Large Smoothies - Berry Beautiful - 2.50",7.2,CARD,1618359494801301
+04/12/2023 10:06,Uppingham,Vilma Stiltner,Regular Smoothies - Berry Beautiful - 2.00,2.0,CARD,9453588350183263
+04/12/2023 10:07,Uppingham,John Rivas,"Large Hot chocolate - 2.90, Regular Speciality Tea - Green - 1.30, Large Flavoured latte - Hazelnut - 2.85, Large Speciality Tea - Peppermint - 1.60, Large Red Label tea - 1.80, Regular Red Label tea - 1.20",11.65,CASH,
+04/12/2023 10:08,Uppingham,Doris Proffitt,"Regular Red Label tea - 1.20, Large Flavoured latte - Hazelnut - 2.85",4.05,CARD,1016935571971730
+04/12/2023 10:09,Uppingham,Ashley Malboeuf,"Large Hot chocolate - 2.90, Large Hot chocolate - 2.90",5.8,CARD,8260115549983669
+04/12/2023 10:11,Uppingham,Maurice Glasser,"Regular Speciality Tea - Green - 1.30, Regular Mocha - 2.30",3.6,CARD,4670698830620181
+04/12/2023 10:12,Uppingham,Tyler Price,Large Mocha - 2.70,2.7,CARD,9521595940633308
+04/12/2023 10:13,Uppingham,Dennis Humphrey,Regular Flavoured latte - Hazelnut - 2.55,2.55,CARD,6688251071764837
+04/12/2023 10:14,Uppingham,Anne Shuler,"Regular Red Label tea - 1.20, Large Red Label tea - 1.80, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured latte - Hazelnut - 2.55",8.1,CASH,
+04/12/2023 10:16,Uppingham,Elizabeth Anderson,"Regular Flavoured latte - Caramel - 2.55, Large Speciality Tea - Green - 1.60, Regular Red Label tea - 1.20",5.35,CASH,
+04/12/2023 10:17,Uppingham,Norman Ferrera,"Large Flavoured latte - Hazelnut - 2.85, Large Hot chocolate - 2.90, Regular Mocha - 2.30",8.05,CARD,3359272632791578
+04/12/2023 10:18,Uppingham,David Miles,"Large Speciality Tea - Green - 1.60, Large Mocha - 2.70",4.3,CASH,
+04/12/2023 10:19,Uppingham,Phillip Roudabush,Large Smoothies - Berry Beautiful - 2.50,2.5,CARD,5579765594025695
+04/12/2023 10:21,Uppingham,Matthew Alvarado,"Large Flavoured latte - Caramel - 2.85, Large Mocha - 2.70, Large Cortado - 2.35, Large Speciality Tea - Peppermint - 1.60, Regular Smoothies - Berry Beautiful - 2.00",11.5,CARD,6689287937732059
+04/12/2023 10:22,Uppingham,Bradley Davis,Large Smoothies - Berry Beautiful - 2.50,2.5,CASH,
+04/12/2023 10:23,Uppingham,John Murphy,"Large Flavoured latte - Hazelnut - 2.85, Large Mocha - 2.70, Large Red Label tea - 1.80",7.35,CARD,4462888510507794
+04/12/2023 10:24,Uppingham,Paul Garcia,"Regular Flavoured hot chocolate - Vanilla - 2.60, Large Flavoured latte - Hazelnut - 2.85",5.45,CASH,
+04/12/2023 10:26,Uppingham,Lillian Gardiner,Regular Flavoured latte - Hazelnut - 2.55,2.55,CARD,1219089014002738
+04/12/2023 10:27,Uppingham,Laurie Zbinden,"Large Speciality Tea - Green - 1.60, Regular Flavoured latte - Caramel - 2.55",4.15,CARD,1203344883374391
+04/12/2023 10:28,Uppingham,Billy Chen,"Large Speciality Tea - Green - 1.60, Regular Speciality Tea - Green - 1.30, Large Red Label tea - 1.80, Regular Hot chocolate - 2.20",6.9,CASH,
+04/12/2023 10:29,Uppingham,Linda Lee,"Large Speciality Tea - Green - 1.60, Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured hot chocolate - Vanilla - 2.60, Regular Hot chocolate - 2.20",9.25,CARD,2981933741649726
+04/12/2023 10:31,Uppingham,Joan Dougherty,"Regular Red Label tea - 1.20, Regular Cortado - 2.05",3.25,CASH,
+04/12/2023 10:32,Uppingham,Joseph Silva,"Regular Mocha - 2.30, Large Cortado - 2.35, Large Red Label tea - 1.80",6.45,CARD,5071986332475314
+04/12/2023 10:33,Uppingham,Tonya Powers,"Large Cortado - 2.35, Regular Cortado - 2.05",4.4,CARD,5683937958934221
+04/12/2023 10:34,Uppingham,Margaret Newman,Large Speciality Tea - Green - 1.60,1.6,CARD,7343921619048797
+04/12/2023 10:36,Uppingham,Nancy Fahnestock,"Large Flavoured latte - Caramel - 2.85, Regular Hot chocolate - 2.20, Large Red Label tea - 1.80, Large Red Label tea - 1.80, Large Flavoured hot chocolate - Vanilla - 2.90",11.55,CASH,
+04/12/2023 10:37,Uppingham,Scott White,"Large Speciality Tea - Green - 1.60, Regular Flavoured latte - Caramel - 2.55, Large Flavoured hot chocolate - Vanilla - 2.90",7.05,CARD,9834911229695643
+04/12/2023 10:38,Uppingham,Deloris Miranda,Large Red Label tea - 1.80,1.8,CARD,1145819123162614
+04/12/2023 10:39,Uppingham,Richard Overturf,"Large Flavoured latte - Hazelnut - 2.85, Large Cortado - 2.35, Large Cortado - 2.35",7.55,CASH,
+04/12/2023 10:41,Uppingham,Samantha Richardt,"Regular Flavoured hot chocolate - Vanilla - 2.60, Large Red Label tea - 1.80, Regular Mocha - 2.30, Regular Red Label tea - 1.20",7.9,CASH,
+04/12/2023 10:42,Uppingham,Nancy Young,"Large Flavoured hot chocolate - Vanilla - 2.90, Regular Smoothies - Berry Beautiful - 2.00, Large Speciality Tea - Green - 1.60, Large Mocha - 2.70",9.2,CARD,1886393030420032
+04/12/2023 10:43,Uppingham,Willie Pitts,"Large Red Label tea - 1.80, Large Flavoured latte - Hazelnut - 2.85, Large Hot chocolate - 2.90, Large Smoothies - Berry Beautiful - 2.50",10.05,CARD,6495770577319378
+04/12/2023 10:44,Uppingham,Estelle Evans,"Large Mocha - 2.70, Regular Hot chocolate - 2.20, Regular Speciality Tea - Green - 1.30, Regular Smoothies - Berry Beautiful - 2.00, Large Flavoured latte - Hazelnut - 2.85",11.05,CARD,3709354768386616
+04/12/2023 10:46,Uppingham,Amanda Collett,Large Cortado - 2.35,2.35,CASH,
+04/12/2023 10:47,Uppingham,Jack Jeanlouis,"Regular Speciality Tea - Green - 1.30, Large Hot chocolate - 2.90",4.2,CASH,
+04/12/2023 10:48,Uppingham,Mary Vessey,Large Smoothies - Berry Beautiful - 2.50,2.5,CARD,9757045825671954
+04/12/2023 10:49,Uppingham,David Hardy,"Regular Speciality Tea - Peppermint - 1.30, Large Flavoured latte - Hazelnut - 2.85, Large Flavoured latte - Hazelnut - 2.85",7.0,CASH,
+04/12/2023 10:51,Uppingham,Denice Wyman,"Large Flavoured hot chocolate - Vanilla - 2.90, Regular Speciality Tea - Green - 1.30",4.2,CARD,6588075645758443
+04/12/2023 10:52,Uppingham,Judith Erlewine,Large Mocha - 2.70,2.7,CARD,9430609483582950
+04/12/2023 10:53,Uppingham,Jonathan Held,"Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured latte - Caramel - 2.85",7.95,CASH,
+04/12/2023 10:54,Uppingham,Gabriella York,Large Hot chocolate - 2.90,2.9,CARD,2487533353105013
+04/12/2023 10:56,Uppingham,Gary Clower,"Large Mocha - 2.70, Large Flavoured latte - Hazelnut - 2.85, Regular Hot chocolate - 2.20",7.75,CARD,6613388602524496
+04/12/2023 10:57,Uppingham,Jackie Witt,Regular Flavoured latte - Caramel - 2.55,2.55,CARD,3553499346839202
+04/12/2023 10:58,Uppingham,William Jackson,Large Speciality Tea - Green - 1.60,1.6,CARD,7250984987044497
+04/12/2023 10:59,Uppingham,Steven Saunders,"Large Red Label tea - 1.80, Large Red Label tea - 1.80, Large Flavoured latte - Hazelnut - 2.85",6.45,CARD,9634452258086328
+04/12/2023 11:01,Uppingham,Erma Cranker,"Large Smoothies - Berry Beautiful - 2.50, Regular Hot chocolate - 2.20, Large Smoothies - Berry Beautiful - 2.50, Regular Cortado - 2.05",9.25,CASH,
+04/12/2023 11:03,Uppingham,John Wade,Large Flavoured latte - Caramel - 2.85,2.85,CARD,4534301968137399
+04/12/2023 11:05,Uppingham,Robert Wyatt,"Regular Mocha - 2.30, Large Speciality Tea - Green - 1.60, Large Speciality Tea - Green - 1.60, Large Speciality Tea - Peppermint - 1.60",7.1,CARD,9837747466491570
+04/12/2023 11:07,Uppingham,Katherine Bartlett,"Regular Red Label tea - 1.20, Large Hot chocolate - 2.90",4.1,CARD,1530089982246237
+04/12/2023 11:09,Uppingham,Jerry Garcia,"Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured latte - Hazelnut - 2.85",5.4,CASH,
+04/12/2023 11:11,Uppingham,Michael Badami,"Large Speciality Tea - Green - 1.60, Large Hot chocolate - 2.90, Large Hot chocolate - 2.90, Regular Smoothies - Berry Beautiful - 2.00, Large Flavoured latte - Hazelnut - 2.85, Regular Red Label tea - 1.20",13.45,CASH,
+04/12/2023 11:13,Uppingham,Martha Levingston,"Large Red Label tea - 1.80, Large Mocha - 2.70",4.5,CARD,9525303574140481
+04/12/2023 11:15,Uppingham,Greg Graham,Regular Cortado - 2.05,2.05,CASH,
+04/12/2023 11:17,Uppingham,Delia Johnson,"Regular Flavoured latte - Hazelnut - 2.55, Regular Speciality Tea - Green - 1.30, Large Mocha - 2.70, Large Speciality Tea - Green - 1.60",8.15,CASH,
+04/12/2023 11:19,Uppingham,Walter Hart,"Large Flavoured hot chocolate - Vanilla - 2.90, Regular Smoothies - Berry Beautiful - 2.00, Large Flavoured latte - Hazelnut - 2.85",7.75,CARD,2755099186610650
+04/12/2023 11:21,Uppingham,Steven Webb,"Regular Flavoured latte - Caramel - 2.55, Large Hot chocolate - 2.90, Regular Hot chocolate - 2.20, Large Flavoured latte - Caramel - 2.85, Regular Flavoured latte - Caramel - 2.55, Large Red Label tea - 1.80",14.85,CARD,9875637938952064
+04/12/2023 11:23,Uppingham,Dwayne Natera,"Large Hot chocolate - 2.90, Large Flavoured latte - Hazelnut - 2.85, Large Speciality Tea - Peppermint - 1.60",7.35,CASH,
+04/12/2023 11:25,Uppingham,Steve Acker,"Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured latte - Caramel - 2.85, Large Cortado - 2.35, Large Cortado - 2.35, Large Flavoured latte - Hazelnut - 2.85",12.95,CASH,
+04/12/2023 11:27,Uppingham,Luis Pao,"Regular Speciality Tea - Peppermint - 1.30, Large Cortado - 2.35, Regular Smoothies - Berry Beautiful - 2.00",5.65,CARD,5954075482952136
+04/12/2023 11:29,Uppingham,Elizabeth Rector,"Regular Hot chocolate - 2.20, Large Speciality Tea - Green - 1.60, Regular Red Label tea - 1.20",5.0,CARD,8099116849987130
+04/12/2023 11:31,Uppingham,Tiera Price,Large Flavoured hot chocolate - Vanilla - 2.90,2.9,CARD,4411198110708671
+04/12/2023 11:33,Uppingham,William Horne,"Regular Flavoured latte - Hazelnut - 2.55, Large Speciality Tea - Peppermint - 1.60",4.15,CARD,3167349895595151
+04/12/2023 11:35,Uppingham,Frances Saldana,Regular Speciality Tea - Peppermint - 1.30,1.3,CARD,9268972192561050
+04/12/2023 11:37,Uppingham,Van Dudley,"Regular Flavoured latte - Caramel - 2.55, Regular Flavoured latte - Hazelnut - 2.55, Regular Speciality Tea - Peppermint - 1.30, Regular Cortado - 2.05",8.45,CARD,1975209769176305
+04/12/2023 11:39,Uppingham,Cynthia Lockhart,"Large Hot chocolate - 2.90, Large Speciality Tea - Peppermint - 1.60",4.5,CARD,5836977285739823
+04/12/2023 11:41,Uppingham,Jamie Smith,"Large Cortado - 2.35, Regular Smoothies - Berry Beautiful - 2.00, Large Smoothies - Berry Beautiful - 2.50, Large Flavoured latte - Caramel - 2.85",9.7,CASH,
+04/12/2023 11:43,Uppingham,Arron Puentes,"Large Smoothies - Berry Beautiful - 2.50, Large Speciality Tea - Green - 1.60",4.1,CARD,7956822459159725
+04/12/2023 11:45,Uppingham,Paul Teel,"Regular Smoothies - Berry Beautiful - 2.00, Regular Speciality Tea - Green - 1.30, Large Mocha - 2.70, Large Speciality Tea - Green - 1.60",7.6,CARD,2833463713397265
+04/12/2023 11:47,Uppingham,Tanya White,Regular Cortado - 2.05,2.05,CARD,8122592058025015
+04/12/2023 11:49,Uppingham,Ryan Zimmerman,"Regular Speciality Tea - Green - 1.30, Regular Speciality Tea - Peppermint - 1.30, Regular Cortado - 2.05, Regular Flavoured latte - Caramel - 2.55",7.2,CASH,
+04/12/2023 11:51,Uppingham,Bruce Creasman,"Large Flavoured latte - Caramel - 2.85, Regular Hot chocolate - 2.20, Large Flavoured latte - Caramel - 2.85, Large Flavoured latte - Caramel - 2.85",10.75,CASH,
+04/12/2023 11:53,Uppingham,Joyce Dorn,"Large Hot chocolate - 2.90, Regular Flavoured hot chocolate - Vanilla - 2.60, Large Flavoured latte - Hazelnut - 2.85, Large Speciality Tea - Peppermint - 1.60, Large Speciality Tea - Peppermint - 1.60",11.55,CARD,1391886570895128
+04/12/2023 11:55,Uppingham,Ralph Barr,"Regular Flavoured latte - Hazelnut - 2.55, Regular Mocha - 2.30, Large Flavoured hot chocolate - Vanilla - 2.90, Large Cortado - 2.35",10.1,CARD,4013658668953607
+04/12/2023 11:57,Uppingham,Richard Golden,"Large Red Label tea - 1.80, Large Hot chocolate - 2.90",4.7,CARD,2665867571236544
+04/12/2023 11:59,Uppingham,Maria Clement,"Regular Hot chocolate - 2.20, Large Flavoured latte - Hazelnut - 2.85",5.05,CARD,2589941798140075
+04/12/2023 12:01,Uppingham,Lillian James,"Regular Smoothies - Berry Beautiful - 2.00, Large Flavoured latte - Hazelnut - 2.85, Regular Hot chocolate - 2.20",7.05,CARD,2115165163811485
+04/12/2023 12:04,Uppingham,Estella Rodriguez,"Large Hot chocolate - 2.90, Large Smoothies - Berry Beautiful - 2.50, Large Cortado - 2.35",7.75,CASH,
+04/12/2023 12:07,Uppingham,Marilyn Waitman,"Large Speciality Tea - Green - 1.60, Large Speciality Tea - Green - 1.60",3.2,CARD,3730819410996754
+04/12/2023 12:10,Uppingham,Michelle Brown,Large Mocha - 2.70,2.7,CARD,7825239750870761
+04/12/2023 12:13,Uppingham,Lisa Solorio,"Large Mocha - 2.70, Regular Flavoured hot chocolate - Vanilla - 2.60, Regular Flavoured hot chocolate - Vanilla - 2.60, Regular Flavoured latte - Hazelnut - 2.55",10.45,CARD,8083277958202331
+04/12/2023 12:16,Uppingham,Michael Swink,"Regular Flavoured latte - Caramel - 2.55, Large Red Label tea - 1.80, Regular Hot chocolate - 2.20, Regular Flavoured latte - Hazelnut - 2.55, Large Speciality Tea - Green - 1.60",10.7,CASH,
+04/12/2023 12:19,Uppingham,Stephanie Gaudio,Large Flavoured latte - Hazelnut - 2.85,2.85,CARD,3840142778245987
+04/12/2023 12:23,Uppingham,Cynthia Harley,"Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured latte - Caramel - 2.55",7.95,CARD,9730832797575760
+04/12/2023 12:26,Uppingham,Timothy Mahaffey,"Regular Mocha - 2.30, Large Speciality Tea - Green - 1.60, Large Flavoured latte - Caramel - 2.85, Regular Speciality Tea - Peppermint - 1.30",8.05,CARD,5651658133975964
+04/12/2023 12:29,Uppingham,Arturo Long,Large Cortado - 2.35,2.35,CARD,2836397257520412
+04/12/2023 12:32,Uppingham,Delores Hoffman,"Regular Flavoured hot chocolate - Vanilla - 2.60, Large Hot chocolate - 2.90, Regular Speciality Tea - Peppermint - 1.30",6.8,CASH,
+04/12/2023 12:35,Uppingham,Stuart Miller,"Large Flavoured latte - Caramel - 2.85, Large Hot chocolate - 2.90",5.75,CARD,4125592657747242
+04/12/2023 12:38,Uppingham,Michelle Talbert,"Regular Hot chocolate - 2.20, Large Flavoured latte - Hazelnut - 2.85",5.05,CARD,7637491161724301
+04/12/2023 12:41,Uppingham,Robert Cartwright,"Regular Red Label tea - 1.20, Large Red Label tea - 1.80, Regular Hot chocolate - 2.20",5.2,CARD,5767826342795198
+04/12/2023 12:45,Uppingham,Dessie Elsberry,"Regular Smoothies - Berry Beautiful - 2.00, Large Red Label tea - 1.80",3.8,CARD,1055109774338191
+04/12/2023 12:48,Uppingham,Patrick Mccoy,"Large Red Label tea - 1.80, Large Hot chocolate - 2.90",4.7,CARD,4643755952153707
+04/12/2023 12:51,Uppingham,Reginald Gridley,"Regular Speciality Tea - Peppermint - 1.30, Large Cortado - 2.35, Regular Speciality Tea - Green - 1.30, Regular Red Label tea - 1.20",6.15,CARD,5335033110301957
+04/12/2023 12:54,Uppingham,James Tedrow,"Regular Mocha - 2.30, Large Speciality Tea - Peppermint - 1.60",3.9,CASH,
+04/12/2023 12:57,Uppingham,Marvin Lombardo,"Large Speciality Tea - Green - 1.60, Regular Cortado - 2.05, Large Cortado - 2.35",6.0,CARD,9846139066009190
+04/12/2023 13:00,Uppingham,Carol Smith,Regular Speciality Tea - Peppermint - 1.30,1.3,CASH,
+04/12/2023 13:02,Uppingham,Jessica Curtis,Large Cortado - 2.35,2.35,CARD,4022950101200420
+04/12/2023 13:04,Uppingham,William Rhoades,"Large Flavoured hot chocolate - Vanilla - 2.90, Regular Red Label tea - 1.20, Large Speciality Tea - Green - 1.60",5.7,CASH,
+04/12/2023 13:06,Uppingham,Thomas Nichols,"Regular Red Label tea - 1.20, Large Smoothies - Berry Beautiful - 2.50, Regular Mocha - 2.30",6.0,CARD,4052624591234205
+04/12/2023 13:08,Uppingham,Stephanie Polak,"Large Flavoured hot chocolate - Vanilla - 2.90, Large Mocha - 2.70",5.6,CASH,
+04/12/2023 13:10,Uppingham,Betty Nickisch,"Regular Smoothies - Berry Beautiful - 2.00, Large Hot chocolate - 2.90, Large Mocha - 2.70, Regular Hot chocolate - 2.20, Regular Hot chocolate - 2.20",12.0,CARD,1435354107863994
+04/12/2023 13:12,Uppingham,Lisa Pitsch,"Regular Cortado - 2.05, Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured latte - Caramel - 2.55",7.45,CASH,
+04/12/2023 13:13,Uppingham,Donna Marshall,"Large Flavoured latte - Caramel - 2.85, Regular Mocha - 2.30, Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured latte - Hazelnut - 2.55",10.55,CASH,
+04/12/2023 13:15,Uppingham,Theodore Wiltberger,"Large Cortado - 2.35, Large Flavoured latte - Caramel - 2.85",5.2,CARD,3814457388905367
+04/12/2023 13:17,Uppingham,Katherine Stone,"Regular Cortado - 2.05, Regular Smoothies - Berry Beautiful - 2.00, Regular Flavoured latte - Caramel - 2.55",6.6,CARD,7322841827505944
+04/12/2023 13:19,Uppingham,Douglas Hayes,"Regular Smoothies - Berry Beautiful - 2.00, Large Speciality Tea - Green - 1.60, Regular Smoothies - Berry Beautiful - 2.00, Regular Flavoured hot chocolate - Vanilla - 2.60",8.2,CARD,2866029498471726
+04/12/2023 13:21,Uppingham,Lori Smart,"Regular Flavoured hot chocolate - Vanilla - 2.60, Regular Flavoured hot chocolate - Vanilla - 2.60, Large Cortado - 2.35",7.55,CARD,4430723046931751
+04/12/2023 13:23,Uppingham,Terry Feith,Regular Cortado - 2.05,2.05,CASH,
+04/12/2023 13:25,Uppingham,Nicki Morita,"Regular Mocha - 2.30, Regular Cortado - 2.05, Large Flavoured latte - Caramel - 2.85",7.2,CARD,7819044723785065
+04/12/2023 13:26,Uppingham,Janice Washington,"Large Mocha - 2.70, Large Flavoured latte - Caramel - 2.85, Regular Speciality Tea - Peppermint - 1.30",6.85,CARD,3767049712249738
+04/12/2023 13:28,Uppingham,Philip Graham,Regular Flavoured latte - Hazelnut - 2.55,2.55,CARD,5737178571621225
+04/12/2023 13:30,Uppingham,Ruby Perez,"Large Flavoured latte - Hazelnut - 2.85, Regular Speciality Tea - Peppermint - 1.30, Regular Flavoured latte - Caramel - 2.55, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured latte - Hazelnut - 2.55",11.8,CARD,3169234965453212
+04/12/2023 13:32,Uppingham,Harold Real,"Large Smoothies - Berry Beautiful - 2.50, Large Cortado - 2.35",4.85,CARD,4004342776156986
+04/12/2023 13:34,Uppingham,Craig Zellmer,"Regular Speciality Tea - Peppermint - 1.30, Large Smoothies - Berry Beautiful - 2.50, Regular Speciality Tea - Green - 1.30, Large Hot chocolate - 2.90, Regular Speciality Tea - Green - 1.30",9.3,CARD,6147044590834452
+04/12/2023 13:36,Uppingham,Gail Underwood,"Regular Smoothies - Berry Beautiful - 2.00, Regular Flavoured latte - Caramel - 2.55",4.55,CARD,8519825204365757
+04/12/2023 13:38,Uppingham,Andre Roller,"Regular Speciality Tea - Green - 1.30, Regular Cortado - 2.05",3.35,CARD,5681739396380777
+04/12/2023 13:40,Uppingham,Ruth Tanenbaum,"Regular Cortado - 2.05, Large Flavoured hot chocolate - Vanilla - 2.90, Large Hot chocolate - 2.90",7.85,CASH,
+04/12/2023 13:41,Uppingham,Ramon Moss,"Large Smoothies - Berry Beautiful - 2.50, Regular Mocha - 2.30, Regular Flavoured hot chocolate - Vanilla - 2.60",7.4,CARD,3356259110455234
+04/12/2023 13:43,Uppingham,Melinda Parson,"Regular Red Label tea - 1.20, Large Flavoured latte - Caramel - 2.85",4.05,CARD,1236581890656427
+04/12/2023 13:45,Uppingham,James Friday,"Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured latte - Caramel - 2.55, Regular Red Label tea - 1.20, Large Flavoured latte - Hazelnut - 2.85, Large Flavoured latte - Hazelnut - 2.85, Large Cortado - 2.35",14.35,CARD,6517103485359407
+04/12/2023 13:47,Uppingham,Tina Alexander,Large Mocha - 2.70,2.7,CARD,3355522817861624
+04/12/2023 13:49,Uppingham,Tammy Menter,"Large Mocha - 2.70, Large Cortado - 2.35, Regular Red Label tea - 1.20",6.25,CARD,8255323231361941
+04/12/2023 13:51,Uppingham,Nancy Bradshaw,"Large Red Label tea - 1.80, Regular Speciality Tea - Peppermint - 1.30",3.1,CARD,5460488217921585
+04/12/2023 13:53,Uppingham,Sam Tucker,"Regular Cortado - 2.05, Large Cortado - 2.35, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured hot chocolate - Vanilla - 2.60",9.55,CARD,9513351294517246
+04/12/2023 13:54,Uppingham,Virgie Reese,"Large Flavoured hot chocolate - Vanilla - 2.90, Regular Mocha - 2.30",5.2,CASH,
+04/12/2023 13:56,Uppingham,Shelley Clark,"Large Cortado - 2.35, Large Hot chocolate - 2.90, Regular Cortado - 2.05, Large Smoothies - Berry Beautiful - 2.50, Regular Smoothies - Berry Beautiful - 2.00",11.8,CARD,3488492133924581
+04/12/2023 13:58,Uppingham,Vivian Ngo,"Large Speciality Tea - Peppermint - 1.60, Large Red Label tea - 1.80, Regular Hot chocolate - 2.20, Large Cortado - 2.35, Regular Cortado - 2.05, Regular Cortado - 2.05",12.05,CARD,4654765289871919
+04/12/2023 14:00,Uppingham,Alberto Delp,"Large Flavoured latte - Caramel - 2.85, Large Flavoured latte - Hazelnut - 2.85, Large Red Label tea - 1.80",7.5,CARD,2960104248466658
+04/12/2023 14:03,Uppingham,Renee Kish,"Large Speciality Tea - Green - 1.60, Regular Red Label tea - 1.20, Regular Flavoured hot chocolate - Vanilla - 2.60",5.4,CARD,3955154912686571
+04/12/2023 14:07,Uppingham,Leon Washburn,"Regular Speciality Tea - Peppermint - 1.30, Regular Cortado - 2.05, Large Cortado - 2.35, Regular Cortado - 2.05",7.75,CASH,
+04/12/2023 14:10,Uppingham,Benjamin Stevens,"Large Flavoured hot chocolate - Vanilla - 2.90, Regular Flavoured hot chocolate - Vanilla - 2.60",5.5,CARD,5023778734329703
+04/12/2023 14:13,Uppingham,Paula Brown,"Large Flavoured latte - Hazelnut - 2.85, Large Hot chocolate - 2.90, Large Speciality Tea - Green - 1.60",7.35,CASH,
+04/12/2023 14:17,Uppingham,Priscilla Pearce,"Regular Mocha - 2.30, Regular Speciality Tea - Peppermint - 1.30, Large Flavoured hot chocolate - Vanilla - 2.90",6.5,CARD,1418176610135510
+04/12/2023 14:20,Uppingham,Lester Lauderdale,"Large Red Label tea - 1.80, Regular Speciality Tea - Peppermint - 1.30, Regular Hot chocolate - 2.20",5.3,CARD,7604957205015908
+04/12/2023 14:23,Uppingham,Verna Kruckenberg,"Regular Mocha - 2.30, Regular Hot chocolate - 2.20, Regular Cortado - 2.05, Regular Hot chocolate - 2.20",8.75,CASH,
+04/12/2023 14:27,Uppingham,Victor Pinckney,Large Mocha - 2.70,2.7,CARD,3195332942687850
+04/12/2023 14:30,Uppingham,Alice Gustafson,Regular Flavoured latte - Caramel - 2.55,2.55,CASH,
+04/12/2023 14:33,Uppingham,Shelby Rice,"Large Flavoured latte - Hazelnut - 2.85, Large Smoothies - Berry Beautiful - 2.50",5.35,CASH,
+04/12/2023 14:37,Uppingham,Jack Montgomery,Regular Flavoured latte - Hazelnut - 2.55,2.55,CARD,7239056769942137
+04/12/2023 14:40,Uppingham,John Davis,"Regular Red Label tea - 1.20, Large Cortado - 2.35",3.55,CASH,
+04/12/2023 14:43,Uppingham,Betty Harris,Regular Flavoured latte - Caramel - 2.55,2.55,CARD,9161653419920829
+04/12/2023 14:47,Uppingham,Scott Morris,Large Flavoured hot chocolate - Vanilla - 2.90,2.9,CASH,
+04/12/2023 14:50,Uppingham,Jeanne Williams,"Regular Mocha - 2.30, Large Red Label tea - 1.80, Regular Flavoured hot chocolate - Vanilla - 2.60",6.7,CASH,
+04/12/2023 14:53,Uppingham,Melissa Evans,"Regular Red Label tea - 1.20, Large Flavoured latte - Hazelnut - 2.85, Regular Smoothies - Berry Beautiful - 2.00",6.05,CARD,5962465969223197
+04/12/2023 14:57,Uppingham,Arthur Carnevale,"Regular Red Label tea - 1.20, Regular Speciality Tea - Green - 1.30, Regular Smoothies - Berry Beautiful - 2.00",4.5,CARD,6851712336494957
+04/12/2023 15:00,Uppingham,Wendy Mccorrison,"Large Mocha - 2.70, Large Flavoured latte - Hazelnut - 2.85, Regular Speciality Tea - Peppermint - 1.30, Regular Smoothies - Berry Beautiful - 2.00",8.85,CASH,
+04/12/2023 15:03,Uppingham,Terence Roberts,Large Speciality Tea - Peppermint - 1.60,1.6,CARD,6568190149468051
+04/12/2023 15:07,Uppingham,Marie Wheeler,"Large Flavoured latte - Hazelnut - 2.85, Large Smoothies - Berry Beautiful - 2.50, Large Cortado - 2.35",7.7,CARD,2714474598896993
+04/12/2023 15:10,Uppingham,Michael Labianca,"Large Hot chocolate - 2.90, Regular Red Label tea - 1.20",4.1,CARD,8778358406152975
+04/12/2023 15:13,Uppingham,Ernesto Johnson,"Regular Hot chocolate - 2.20, Large Hot chocolate - 2.90",5.1,CASH,
+04/12/2023 15:17,Uppingham,Robert Yancik,Regular Cortado - 2.05,2.05,CASH,
+04/12/2023 15:20,Uppingham,Susan Cisneros,"Regular Flavoured hot chocolate - Vanilla - 2.60, Large Flavoured latte - Caramel - 2.85",5.45,CARD,6041404118473094
+04/12/2023 15:23,Uppingham,Francis Runyon,"Large Smoothies - Berry Beautiful - 2.50, Regular Smoothies - Berry Beautiful - 2.00, Large Flavoured hot chocolate - Vanilla - 2.90, Large Smoothies - Berry Beautiful - 2.50, Large Speciality Tea - Green - 1.60, Regular Speciality Tea - Green - 1.30",12.8,CASH,
+04/12/2023 15:27,Uppingham,Chad Boser,"Regular Flavoured latte - Hazelnut - 2.55, Large Cortado - 2.35, Large Red Label tea - 1.80",6.7,CASH,
+04/12/2023 15:30,Uppingham,Mark Tanner,"Large Flavoured latte - Hazelnut - 2.85, Regular Hot chocolate - 2.20, Large Flavoured latte - Caramel - 2.85",7.9,CARD,5583101447098798
+04/12/2023 15:33,Uppingham,Barry Ganong,Regular Speciality Tea - Peppermint - 1.30,1.3,CARD,3352575160297622
+04/12/2023 15:37,Uppingham,Kathleen Dean,"Regular Cortado - 2.05, Regular Mocha - 2.30, Regular Speciality Tea - Peppermint - 1.30, Regular Mocha - 2.30",7.95,CARD,9862909172751684
+04/12/2023 15:40,Uppingham,Joseph Baker,"Regular Speciality Tea - Green - 1.30, Large Mocha - 2.70, Large Flavoured hot chocolate - Vanilla - 2.90, Large Hot chocolate - 2.90",9.8,CASH,
+04/12/2023 15:43,Uppingham,Ethel Turrentine,"Regular Speciality Tea - Peppermint - 1.30, Regular Flavoured latte - Caramel - 2.55",3.85,CARD,2440712329166388
+04/12/2023 15:47,Uppingham,Margaret Holbrook,"Regular Smoothies - Berry Beautiful - 2.00, Large Flavoured latte - Hazelnut - 2.85, Regular Mocha - 2.30",7.15,CARD,4459698513497413
+04/12/2023 15:50,Uppingham,Elizabeth Degraffenreid,"Large Red Label tea - 1.80, Regular Red Label tea - 1.20",3.0,CARD,4728957419064804
+04/12/2023 15:53,Uppingham,Matthew Wooten,"Regular Speciality Tea - Peppermint - 1.30, Regular Cortado - 2.05, Regular Speciality Tea - Peppermint - 1.30",4.65,CARD,3439828001561524
+04/12/2023 15:57,Uppingham,Nicole Rigby,"Regular Hot chocolate - 2.20, Regular Red Label tea - 1.20, Regular Smoothies - Berry Beautiful - 2.00, Large Mocha - 2.70",8.1,CASH,
+04/12/2023 16:00,Uppingham,Michael Besecker,"Regular Hot chocolate - 2.20, Regular Speciality Tea - Peppermint - 1.30, Large Mocha - 2.70",6.2,CASH,
+04/12/2023 16:02,Uppingham,John Tolin,Large Red Label tea - 1.80,1.8,CASH,
+04/12/2023 16:04,Uppingham,Charles Davenport,"Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured hot chocolate - Vanilla - 2.90, Large Red Label tea - 1.80, Large Red Label tea - 1.80, Regular Smoothies - Berry Beautiful - 2.00",11.05,CARD,8242471578739308
+04/12/2023 16:05,Uppingham,Edwin Boothe,Large Mocha - 2.70,2.7,CASH,
+04/12/2023 16:07,Uppingham,James Alba,"Large Red Label tea - 1.80, Large Cortado - 2.35",4.15,CARD,3260338152653628
+04/12/2023 16:09,Uppingham,Virginia Mccall,"Large Mocha - 2.70, Large Mocha - 2.70, Regular Hot chocolate - 2.20, Large Red Label tea - 1.80, Regular Cortado - 2.05, Regular Cortado - 2.05",13.5,CASH,
+04/12/2023 16:11,Uppingham,Maria Brooks,"Regular Flavoured latte - Hazelnut - 2.55, Regular Cortado - 2.05",4.6,CARD,7630632592818620
+04/12/2023 16:12,Uppingham,Andrew Knight,"Large Cortado - 2.35, Regular Speciality Tea - Green - 1.30, Large Hot chocolate - 2.90",6.55,CARD,7808660553829168
+04/12/2023 16:14,Uppingham,Kristine Cloutier,"Regular Speciality Tea - Peppermint - 1.30, Large Flavoured latte - Caramel - 2.85, Large Speciality Tea - Peppermint - 1.60, Regular Flavoured latte - Caramel - 2.55",8.3,CASH,
+04/12/2023 16:16,Uppingham,Paula Hernandez,"Regular Cortado - 2.05, Large Cortado - 2.35",4.4,CARD,9096721671522842
+04/12/2023 16:18,Uppingham,Kevin Miller,"Regular Hot chocolate - 2.20, Large Speciality Tea - Peppermint - 1.60, Large Smoothies - Berry Beautiful - 2.50",6.3,CARD,4599440474702500
+04/12/2023 16:19,Uppingham,Rebecca Wells,Large Red Label tea - 1.80,1.8,CASH,
+04/12/2023 16:21,Uppingham,Kristopher Harrison,"Large Red Label tea - 1.80, Large Flavoured hot chocolate - Vanilla - 2.90, Large Red Label tea - 1.80",6.5,CASH,
+04/12/2023 16:23,Uppingham,Emory Mahoney,"Large Flavoured latte - Hazelnut - 2.85, Regular Cortado - 2.05, Regular Red Label tea - 1.20, Large Hot chocolate - 2.90",9.0,CARD,3217929500579923
+04/12/2023 16:25,Uppingham,Kenneth Petix,"Large Flavoured latte - Caramel - 2.85, Large Flavoured hot chocolate - Vanilla - 2.90",5.75,CARD,6991166380193533
+04/12/2023 16:26,Uppingham,Brandon Wilson,Large Cortado - 2.35,2.35,CASH,
+04/12/2023 16:28,Uppingham,Donna Derry,Regular Speciality Tea - Green - 1.30,1.3,CARD,6203299610469252
+04/12/2023 16:30,Uppingham,Gary Bolstad,"Large Red Label tea - 1.80, Regular Flavoured latte - Hazelnut - 2.55, Large Mocha - 2.70, Regular Speciality Tea - Peppermint - 1.30",8.35,CASH,
+04/12/2023 16:32,Uppingham,Daniel Washburn,"Large Speciality Tea - Green - 1.60, Large Hot chocolate - 2.90, Large Speciality Tea - Peppermint - 1.60, Regular Cortado - 2.05, Large Cortado - 2.35",10.5,CARD,1286214713165109
+04/12/2023 16:34,Uppingham,Jermaine Huggins,Large Flavoured latte - Caramel - 2.85,2.85,CARD,3149484468475149
+04/12/2023 16:35,Uppingham,Robin Kraus,"Regular Red Label tea - 1.20, Regular Flavoured hot chocolate - Vanilla - 2.60, Regular Cortado - 2.05",5.85,CARD,8957137068145836
+04/12/2023 16:37,Uppingham,John Sprayberry,"Large Red Label tea - 1.80, Regular Cortado - 2.05, Regular Flavoured hot chocolate - Vanilla - 2.60",6.45,CASH,
+04/12/2023 16:39,Uppingham,Maryann Brown,"Regular Flavoured latte - Caramel - 2.55, Regular Speciality Tea - Green - 1.30, Large Mocha - 2.70",6.55,CASH,
+04/12/2023 16:41,Uppingham,Samuel Ruby,"Regular Flavoured latte - Hazelnut - 2.55, Large Flavoured latte - Hazelnut - 2.85, Regular Flavoured latte - Hazelnut - 2.55, Large Hot chocolate - 2.90",10.85,CASH,
+04/12/2023 16:42,Uppingham,Ryan Colon,"Regular Flavoured hot chocolate - Vanilla - 2.60, Large Flavoured latte - Caramel - 2.85, Regular Speciality Tea - Peppermint - 1.30",6.75,CARD,4229471770617752
+04/12/2023 16:44,Uppingham,Diane Dekany,Large Flavoured latte - Hazelnut - 2.85,2.85,CARD,1809894427545674
+04/12/2023 16:46,Uppingham,Christina Winfield,Regular Smoothies - Berry Beautiful - 2.00,2.0,CASH,
+04/12/2023 16:48,Uppingham,Charles Mellish,"Regular Speciality Tea - Peppermint - 1.30, Regular Flavoured hot chocolate - Vanilla - 2.60, Regular Flavoured latte - Caramel - 2.55",6.45,CARD,4567467246057490
+04/12/2023 16:49,Uppingham,James Cavaliero,Large Smoothies - Berry Beautiful - 2.50,2.5,CARD,3851294332513331
+04/12/2023 16:51,Uppingham,Jack Driscoll,"Regular Flavoured latte - Hazelnut - 2.55, Regular Cortado - 2.05",4.6,CASH,
+04/12/2023 16:53,Uppingham,Wade Smith,Regular Speciality Tea - Green - 1.30,1.3,CARD,3305596596446103
+04/12/2023 16:55,Uppingham,Charles Lacoy,"Large Flavoured latte - Caramel - 2.85, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured latte - Hazelnut - 2.55, Regular Flavoured latte - Hazelnut - 2.55",10.5,CARD,5509628830311652
+04/12/2023 16:56,Uppingham,Sherly Davidson,Regular Hot chocolate - 2.20,2.2,CASH,
+04/12/2023 16:58,Uppingham,Judy Smith,"Regular Mocha - 2.30, Large Flavoured hot chocolate - Vanilla - 2.90",5.2,CARD,3539376190194214
