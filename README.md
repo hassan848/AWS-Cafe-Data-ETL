@@ -15,8 +15,11 @@ I first created the pipeline locally on my local PC in python to extract and tra
 
 I then moved this ETL pipeline to the cloud - AWS (see flowchart diagram in repo) where the initial dirty data was being sent to an S3 bucket (simple storage service), the Python code responsible for Extraction, Transformation and Loading is now running on the cloud, split between two lambda functions (serverless execution, event driven) and loaded to a Redshift database. 
 
-I then created the business visualisations of all the collated data from all branches using Grafana which was hosted on a virtual server on the cloud (AWS EC2) - these visualisations of the data were then presented to the client. 
+I then created the business visualisations of all the collated data from all branches using Grafana which was hosted on a virtual server on the cloud (AWS EC2) - these visualisations of the data were then presented to the client. Application monitoring software is also used to produce operational metrics, such as system errors, up-time and more - I also created visualisations for these metrics on Grafana.
 
 This ETL pipeline is automated so as long new dirty data from the cafe branches are uploaded to the S3 bucket which sets of a trigger to invoke the lambda functions which then loads the clean, normalised data to the database.
 
 I also created the IaC (Infrastructure as Code) to automate the infrastructure build of the cloud services e.g. Lambda functions that has an S3 trigger. I did this through a combination of Yaml files and a Bash script. 
+
+# Data Engineering Skills used:
+* Data Warehousing
