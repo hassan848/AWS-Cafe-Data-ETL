@@ -23,3 +23,7 @@ I also created the IaC (Infrastructure as Code) to automate the infrastructure b
 
 # Data Engineering Skills used:
 * Data Warehousing
+* ETL Pipeline building
+* Data Analytics / Visualisations / Business Intelligence
+* Monitoring
+* Development Operations (DevOps)
