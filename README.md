@@ -1,4 +1,4 @@
-# Cafe-Data-ETL/Project Background
+# AWS/Cafe-Data-ETL/Project Background
 An ETL Pipeline using AWS to process data from multiple branches of a café business and generating meaningful business reports/visualisations.
 
 In this project, I was required to make an upgrade to an existing data processing workflow for a cafe business. The previous client application simply consisted of a CSV file of transactional data for a single given branch to be generated for that day. the data would then be stored to a local computer where some sale figures could be created.
